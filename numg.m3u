@@ -7,12 +7,15 @@
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" ,CH5
-https://p0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=b5yNjg3YjUyMjlmNzU3Yzg2NWVlNwOWM4MjNkNWUwYjExM2Ex
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.ch7.com/xl/lg/images/Ch-7-HD-Logo-crop.png" ,CH7
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TV5 HD.th" tvg-name="5HD" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/118_y_GimRnJkEqLtCh2rUueBlFa9oDpNKsvSc.png",5HD
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="CH7 HD.th" tvg-name="7 HD" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/134_y_lPVyKhindFZtxqa3DRp8XN2j5QoGfkeL.png",7 HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" ,CH9
-https://p0.cdn.vet/live/ch9/i/ch9i.m3u8?sid=b5yY2YyOTIyMGIyN2M5NGE4NmY5NgMjk5OGU0NTM0ZjZjMWYy
+
+#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT HD.th" tvg-name="MCOT" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/129_y_QM4D2CX1RUHmVaWJcYIKqZowPEjubinT.png",MCOT
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="จอมยุทธ์ภูติถังซาน" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/06/soul-land-%E0%B8%96%E0%B8%B1%E0%B8%87%E0%B8%8B%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png" ,Soul Land จอมยุทธ์ภูติถังซาน พากย์ไทย ตอนที่ 1
 https://hot.24playerhd.com/autoplaylist/6fa75602183189a6cb59d6d273e118f9/6fa75602183189a6cb59d6d273e118f9.m3u8
 #EXTINF:-1 group-title="หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Unstoppable-2024-สู้สุดใจไม่หยุดฝัน-1-187x269.png" ,สู้สุดใจไม่หยุดฝัน (2024)

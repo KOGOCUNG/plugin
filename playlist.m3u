@@ -1,14 +1,3 @@
-{
-"name":"ทีวีออนไลน์",
-"author":"โกโก้คุง",
-"image":"https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png",
-"url": "https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/tvmovieonline.w3u",
-"groups": [
- 
-{
-
-"name": " DIGITV ","image": "https://www.hs3lzx.com/wp-content/uploads/2014/04/doodee-sticker.png",
-
 #EXTM3U
 
 ########################################
@@ -14319,10 +14308,3 @@ Cinema_Toon 13/10/2024
              
             #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/3015/20220712160429l7Kz.jpg" group-title="หนังการ์ตูน" ,Ratatouille - ระ-ทะ-ทู-อี่ พ่อครัวตัวจี๊ด หัวใจคับโลก (2007) [HD]
             https://movie.server-cdn-streaming.com/api/uploads/movie/3015/video/6741/hls/movie.m3u8
-
-
-
-},
-
-]
-}

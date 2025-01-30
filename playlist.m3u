@@ -1,3 +1,14 @@
+{
+"name":"ทีวีออนไลน์",
+"author":"โกโก้คุง",
+"image":"https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/tvmovieonline.w3u",
+"groups": [
+ 
+{
+
+"name": " DIGITV ","image": "https://www.hs3lzx.com/wp-content/uploads/2014/04/doodee-sticker.png",
+
 #EXTM3U
 
 ########################################
@@ -5956,6 +5967,7 @@ https://main.freecdnn.com/m3u8/2b4a7b64f6ea19afbb921d6c/2b4a7b64f6ea19afbb921d6c
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-1.jpg" group-title="หนังใหม่-2023" ,4 Kings 2 (2023)
 #EXTVLCOPT:https://www.123-hd.com/
 https://main.freecdnn.com/m3u8/344ebb16dc839a942536c157/344ebb16dc839a942536c157438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/03/The-Great-Magician-2023-จอมเวทย์มายา-300x450.png" group-title="หนังใหม่-2023" ,The Great Magician (2023) จอมเวทย์มายา
 #EXTVLCOPT:https://www.123-hd.com/
 https://main.freecdnn.com/m3u8/2d7bc05eafbf61b3e6c537fa/2d7bc05eafbf61b3e6c537fa438.m3u8
@@ -14310,3 +14322,7 @@ Cinema_Toon 13/10/2024
 
 
 
+},
+
+]
+}

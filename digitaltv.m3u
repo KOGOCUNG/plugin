@@ -1,3 +1,14 @@
+{
+ "name":"One Piece วันพีช ",
+ "author":"วันพีช",
+ "image":"https://www.nicepng.com/png/full/54-547970_one-piece-simple-png-images-one-piece-png.png",
+ "url":"https://drive.google.com/uc?id=1eTAKbJ59IoD3sJxEVT4f6CeBRzP84w3B",
+ "groups":
+[
+ 
+{"name":"One Piece วันพีช Season 1 : อีสต์ บูล พากย์ไทย ตอนที่ 1-52","image":"https://artworks.thetvdb.com/banners/series/81797/seasons/31893/posters/5e80db4379ee9.jpg",
+stations:[
+
 #EXTM3U
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD (1080p)
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
@@ -2048,3 +2059,8 @@ https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="Undefined",Thai PBS (480p) [Not 24/7]
 https://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+
+]}, 
+
+]
+}

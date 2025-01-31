@@ -1,10 +1,3 @@
-{
- "name":"One Piece วันพีช ",
- "author":"วันพีช",
- "image":"https://www.nicepng.com/png/full/54-547970_one-piece-simple-png-images-one-piece-png.png",
- "url":"https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/digitaltv.m3u",
-}
-
 #EXTM3U
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD (1080p)
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8

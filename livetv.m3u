@@ -4,10 +4,8 @@
 ❤️ช่องดิจิตอลทีวี
 ########################################
 
-#EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
-"name":"ทีวีออนไลน์",
-"author":"โกโก้คุง",
-"image":"https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png",
+#EXTINF:-1 group-title="❤️ช่องดิจิตอลทีวี" group-title="❤️ช่องดิจิตอลทีวี"group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
+
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png", CH3 HD
 "image":"https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png",

@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml" refresh="3600" 
-
-https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=06cf893b3d57e3ce23d0494ea783bea3&chunkHttps=true&tmid=B0003&tpbk=1YpRRx6vsZn2JOOE&rrt=1738514951&tmod=rfk&rsid=3eee1891-c93a-4f52-94c7-40389f42830e&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738601350
-
 ########################################
 ❤️ช่องดิจิตอลทีวี
 ########################################
@@ -123,8 +119,6 @@ http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3
 ########################################
 🧡ช่องบันเทิงและเด็ก
 ########################################
-
-#EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
 
 #EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://www.upload.ee/image/17657350/WMovies.png" ,World Movies
 http://203.154.243.89:11001/izaa?m3u8
@@ -409,13 +403,13 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
 #EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",BBCLifestyle
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
 
-#EXTINF:-1  tvg-id="Lifetime" group-title="💛ช่องทรูวิชั่น" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",TRUE Lifetime
+#EXTINF:-1  tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",TRUE Lifetime
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 
-#EXTINF:-1  tvg-id="AXNThailand.th" group-title="💛ช่องทรูวิชั่น" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",True AXN
+#EXTINF:-1  tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",True AXN
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
 
-#EXTINF:-1  tvg-id="History" group-title="💛ช่องทรูวิชั่น" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",TRUE HISTORY
+#EXTINF:-1  tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",TRUE HISTORY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",TRUE DreamWorks 
@@ -436,12 +430,12 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 #EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
-#EXTINF:-1 group-title="💛ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp",TRUEID SPORTS1
+#EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp",TRUEID SPORTS1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46b07f9049b58b99ffc24a6bc2d813b:6cbd92a4efad354681576eb76c29b9bb
 https://cdn147.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w1957692568_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0yMDU2Njk0MyZkaWQ9WDFsemRTMXJUbTV4YUZSMVRrMXFjR1JoVm5Sa05IbHlYMjlrTmpCeVdqRSZzaWQ9MWViNjFjNjkxNyZydD0xNzM4NTE1MTg1JmRzPTg2NDAwJnRrPVd6dTFWOEFjdmx2THYzUVFTRkpIYkdDRWp5a2tfWVhPeHhjYWdDaml0OU0=.mpd
 
-#EXTINF:-1 group-title="💛ช่องทรูวิชั่น" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/2a39b1f0-e1d2-11ee-bb63-0f515d43c6f8_webp_original.webp",TRUEID Sports2
+#EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/2a39b1f0-e1d2-11ee-bb63-0f515d43c6f8_webp_original.webp",TRUEID Sports2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
 https://cdn119.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/manifest_w1704464733_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0yMDU2Njk0MyZkaWQ9WDFsemRTMXJUbTV4YUZSMVRrMXFjR1JoVm5Sa05IbHlYMjlrTmpCeVdqRSZzaWQ9YzIwNmY3ODVmZiZydD0xNzM4NTE1MTU4JmRzPTg2NDAwJnRrPTd6RWFDMGdzSV81aW0xTjU1VFRzTXQxejdRWVZONjlsRnc1ZXRWNTIxMkU=.mpd

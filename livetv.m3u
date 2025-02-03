@@ -34,7 +34,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
 #KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
 
-#EXTINF:-1 tvg-id="7"  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/NBT_Thailand.svg/revision/latest?cb=20190902011516", NBT HD
+#EXTINF:-1 tvg-id="7"  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NBT_2025.svg/1483px-NBT_2025.svg.png", NBT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
@@ -74,7 +74,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTINF:-1 tvg-id="15"  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://www.upload.ee/image/17648159/TNN.png", TNN16
+#EXTINF:-1 tvg-id="15"  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/1200px-TNN16_Logo.png", TNN16
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd

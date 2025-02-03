@@ -4,6 +4,8 @@
 ❤️ช่องดิจิตอลทีวี
 ########################################
 
+#EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
+
 #EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png", CH3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
@@ -119,6 +121,8 @@ http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3
 🧡ช่องบันเทิงและเด็ก
 ########################################
 
+#EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
+
 #EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://www.upload.ee/image/17657350/WMovies.png" ,World Movies
 http://203.154.243.89:11001/izaa?m3u8
 
@@ -127,13 +131,14 @@ http://203.154.243.89:11001/izaa?m3u8
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
-#EXTINF:-1 tvg-id="27"  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png", MONO PLUS
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png", MONO PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png", Mono29 HD
 http://edge2-bkk.3bb.co.th:1935/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png", ช่องมังกร
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
@@ -236,6 +241,8 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
 ########################################
 💛ช่องทรูวิชั่น
 ########################################
+
+#EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
 
 #EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-logo="https://www.upload.ee/image/17652133/NFL1.png",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -414,20 +421,18 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 #EXTINF:-1  tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
+#EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 
-#EXTINF:-1  group-title="💛ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" ,TRUE Nickjr
+#EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" ,TRUE Nickjr
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
 
-#EXTINF:-1  group-title="💛ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
+#EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
-#EXTINF:-1  group-title="💛ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
+#EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
-#https://dl.dropbox.com/scl/fi/4fg4ib9dhtlaxv6f60ekm/new2025.mp4?rlkey=khn3mrgy9wnj2uxsq9cbprm3d&st=zbvupvah&dl=0
-#EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
 #EXTINF:-1 group-title="💛ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp",TRUEID SPORTS1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46b07f9049b58b99ffc24a6bc2d813b:6cbd92a4efad354681576eb76c29b9bb

@@ -5,8 +5,12 @@
 ########################################
 
 #EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
+"name":"ทีวีออนไลน์",
+"author":"โกโก้คุง",
+"image":"https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png",
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png", CH3 HD
+"image":"https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd

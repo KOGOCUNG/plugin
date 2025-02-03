@@ -34,7 +34,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
 #KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://www.upload.ee/image/17671173/NBT3HD.png", NBT HD
+#EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/NBT_Thailand.svg/revision/latest?cb=20190902011516", NBT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd

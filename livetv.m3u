@@ -120,7 +120,7 @@ http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3
 🧡ช่องบันเทิงและเด็ก
 ########################################
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://www.upload.ee/image/17657350/WMovies.png" ,World Movies
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Movie_World_Studios_logo.png" ,World Movies
 http://203.154.243.89:11001/izaa?m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://www.upload.ee/image/17652005/Asianhits.png",Asian Hits

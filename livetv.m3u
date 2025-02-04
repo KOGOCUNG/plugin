@@ -732,63 +732,63 @@ https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
 💜ช่องสอนออนไลน์
 ########################################
 
-#EXTINF:-1 tvg-id="" tvg-name="DLTV1" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png",DLTV1
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png",DLTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DLTV2" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png",DLTV2
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png",DLTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png",DLTV3
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png",DLTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png",DLTV4
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png",DLTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv04.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png",DLTV5
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png",DLTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv05.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png",DLTV6
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png",DLTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv06.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png",DLTV7
+#EXTINF:-1 tvg-id=""group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png",DLTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png",DLTV8
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png",DLTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv08.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png",DLTV9
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png",DLTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv09.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png",DLTV10
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png",DLTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png",DLTV11
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png",DLTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv11.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png",DLTV12
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png",DLTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv12.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png",DLTV13
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png",DLTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv13.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png",DLTV14
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png",DLTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DLTV15" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png",DLTV15
+#EXTINF:-1 tvg-id="" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 

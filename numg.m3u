@@ -622,26 +622,6 @@ https://cdn1.googlecdn.live/dooballrealtime/trueballthai10/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
 
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT1.png", สยามสปอร์ต 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport1/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT2.png", สยามสปอร์ต 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport2/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT3.png", สยามสปอร์ต 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport3/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT4.png", สยามสปอร์ต 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
-
 ########################################
 หนังใหม่-2025 21/01/2025
 ########################################
@@ -4051,42 +4031,3 @@ http://nextstep-sooyp4zfonli.stream-playlist.byteark.com:80/streams/TADs9WzyhxC8
 http://nextstep-sooyp4zfonli.stream-playlist.byteark.com:80/streams/TADsBRUThh65/playlist.m3u8
 #EXTINF:-1 group-title="สารคดีเกี่ยวกับธรรมชาติ" tvg-logo="https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1678240878314.jpg" ,ชายหาด วงจรแห่งชีวิต - เกาะเฟรเซอร์
 http://nextstep-sooyp4zfonli.stream-playlist.byteark.com:80/streams/TADsCKRJJiNi/playlist.m3u8
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-#EXTM3U billed-msg="PLAYIDTV ดูหนังซีรีย์18+ เวอร์ชั่น 1.7.1.4+ อัพเดท: 26/12/2024" vod_library="https://bit.ly/meCinema"
-
-#EXTM3U billed-msg="PLAYIDTV ดูหนังซีรีย์18+ เวอร์ชั่น 1.7.1.4+ อัพเดท: 26/12/2024" vod_library="https://tinyurl.com/moviesott1234,https://tinyurl.com/moviesupdate1234,https://bit.ly/meCinema,https://shorturl.asia/hAspO,https://playidtv24.vercel.app/OTT/index.html"

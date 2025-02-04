@@ -1750,12 +1750,6 @@ https://fw4free.inwstream.com/fw4free/sport2.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/sport3.stream/playlist.m3u8
 
-
-
-
-
-#EXTM3U
-
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
 
@@ -2046,14 +2040,11 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
-
 #EXTINF:-1 group-title="ช่อง3BBTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVER
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
 
-
 --------------------------------------------------------------------------------------
 ###TRUEVISION NOW###
-
 
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1qw91euk893ki1kfiqn8zqugwl_image-header_pEs_1686061660000",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -2195,8 +2186,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 #EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
-
-
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ###SPORT###

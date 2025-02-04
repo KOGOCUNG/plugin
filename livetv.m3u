@@ -100,7 +100,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NBT_World_2025.svg/512px-NBT_World_2025.svg.png",NBT World
+#EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/NBTWorld2013.svg/revision/latest/scale-to-width-down/250?cb=20250102121554",NBT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8
 

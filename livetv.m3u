@@ -128,7 +128,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
 #EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Movie_World_Studios_logo.png" ,World Movies
 http://203.154.243.89:11001/izaa?m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://www.upload.ee/image/17652005/Asianhits.png",Asian Hits
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd

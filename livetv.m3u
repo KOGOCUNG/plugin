@@ -133,31 +133,31 @@ http://203.154.243.89:11001/izaa?m3u8
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png", MONO PLUS
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",MONO PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png", Mono29 HD
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono29 HD
 http://edge2-bkk.3bb.co.th:1935/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png", ช่องมังกร
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่องมังกร
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png" ,แอดทีวี
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",แอดทีวี
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png", HBO HD
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0149.png", HBO Signature
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0149.png",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png", HBO Hits
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
@@ -229,7 +229,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 #EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" ,Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://www.upload.ee/image/17681204/Mr.Bean.png" ,Mr. Bean Cartoon
+#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://www.upload.ee/image/17681204/Mr.Bean.png",Mr. Bean Cartoon
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://png.pngtree.com/png-clipart/20230914/original/pngtree-science-icon-vector-png-image_12147944.png",วิทยาศาสตร์
@@ -241,7 +241,7 @@ http://45.144.165.187:8080/playidtv1/12345/15672
 #EXTINF:-1 tvg-id=""group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ซีรี่ย์
 http://45.144.165.187:8080/playidtv1/12345/17239
 
-#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png,ดูหนัง
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cdn-icons-png.freepik.com/256/686/686458.png,ดูหนัง
 http://45.144.165.187:8080/playidtv1/12345/17788
 
 #EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster

@@ -116,6 +116,11 @@ http://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d/playlist.m3
 #EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT ภาคใต้
 http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3u8
 
+#EXTINF:-1 tvg-id=""  group-title="❤️ช่องดิจิตอลทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png", ALTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
+
 ########################################
 🧡ช่องบันเทิงและเด็ก
 ########################################
@@ -227,16 +232,45 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://www.upload.ee/image/17681204/Mr.Bean.png" ,Mr. Bean Cartoon
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png", ALTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://png.pngtree.com/png-clipart/20230914/original/pngtree-science-icon-vector-png-image_12147944.png",วิทยาศาสตร์
+http://45.144.165.187:8080/playidtv1/12345/84
+
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/1364222/LINEStorePC/main.png?v=1",สยองขวัญ
+http://45.144.165.187:8080/playidtv1/12345/15672
+
+#EXTINF:-1 tvg-id=""group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ซีรี่ย์
+http://45.144.165.187:8080/playidtv1/12345/17239
+
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png,ดูหนัง
+http://45.144.165.187:8080/playidtv1/12345/17788
+
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
+http://45.144.165.187:8080/playidtv1/12345/17237
+ttps://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://media-mvtv-app.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",ไทบ้านทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://media-mvtv-app.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",MVLAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://media-mvtv-app.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",MVM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก" tvg-logo="https://media-mvtv-app.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🧡ช่องบันเทิงและเด็ก"tvg-logo="https://media-mvtv-app.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg",NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 ########################################
 💛ช่องทรูวิชั่น
 ########################################
-
-#EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
 
 #EXTINF:-1 tvg-id="" group-title="💛ช่องทรูวิชั่น" tvg-logo="https://www.upload.ee/image/17652133/NFL1.png",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -695,46 +729,10 @@ https://cdn1.googlecdn.live/dooballrealtime/trueballthai10/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
 
 ########################################
-💜ช่องทีวิออนไลน์
+💜ช่องสอนออนไลน์
 ########################################
 
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://png.pngtree.com/png-clipart/20230914/original/pngtree-science-icon-vector-png-image_12147944.png",วิทยาศาสตร์
-http://45.144.165.187:8080/playidtv1/12345/84
-
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/1364222/LINEStorePC/main.png?v=1",สยองขวัญ
-http://45.144.165.187:8080/playidtv1/12345/15672
-
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ซีรี่ย์
-http://45.144.165.187:8080/playidtv1/12345/17239
-
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png,ดูหนัง
-http://45.144.165.187:8080/playidtv1/12345/17788
-
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
-http://45.144.165.187:8080/playidtv1/12345/17237
-ttps://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",ไทบ้านทีวี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",MVLAO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",MVM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png",CNA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg",NHK WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DLTV1" group-title="💜ช่องทีวิออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png",DLTV1
+#EXTINF:-1 tvg-id="" tvg-name="DLTV1" group-title="💜ช่องสอนออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png",DLTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 

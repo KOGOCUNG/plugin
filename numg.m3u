@@ -223,10 +223,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ไทบ้านทีวี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
-
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",MONO PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
@@ -287,6 +283,10 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ไทบ้านทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17667472/Loupe.png",Loupe Channel
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8

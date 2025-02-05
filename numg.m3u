@@ -399,17 +399,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 #EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/spotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/spotv2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
@@ -455,85 +444,65 @@ https://cdn1.googlecdn.live/4k/tsp3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,Sport 5
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",SportHD 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tsp5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,Sport 7
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SportHD 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tsp7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",BeinSportHD 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",BeinSportHD 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",BeinSportHD 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",BeinSportHD 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",BeinSportHD 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" ,BeinSportHD 8
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",BeinSportHD 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 9
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",BeinSportHD 09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" ,BeinSportHD 10
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp",BeinSportHD 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein10/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องBallThai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT1.png",สยามสปอร์ต 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport1/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องBallThai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT2.png",สยามสปอร์ต 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport2/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องBallThai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT3.png",สยามสปอร์ต 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport3/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องBallThai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT4.png",สยามสปอร์ต 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://fw4free.com/channel/ch1.webp",EPL-1
 #EXTVLCOPT:http-referrer=https://fw4free.com/
@@ -590,56 +559,15 @@ https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,True Sport 5
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True SportHD 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,True Sport 7
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True SportHD 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652004/Sports1.png",Sport One
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์"  tvg-logo="https://www.upload.ee/thumb/17652134/NBA.png",NBA HD
-https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652133/NFL1.png",NFL HD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV 1
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-id="spotv2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17655874/ONEGOLF.png",One Golf HD
-https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://www.upload.ee/image/17655897/FightSports.png",Fight Sport
-https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652160/BILLIARDTV.png",BILLIARD TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652198/Hisport.png",HiSports HD
-http://203.154.243.89:11001/hisport?m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652242/Jsports1.png",J SPORTS 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652243/Jsports2.png",J SPORTS 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652248/Jsports3.png",J SPORTS 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652249/Jsports4.png",J SPORTS 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai01 
 #EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
@@ -720,6 +648,57 @@ https://cdn1.googlecdn.live/dooballrealtime/trueballthai10/playlist.m3u8
 #EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652242/Jsports1.png",J SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652243/Jsports2.png",J SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652248/Jsports3.png",J SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652249/Jsports4.png",J SPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652004/Sports1.png",Sport One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์"  tvg-logo="https://www.upload.ee/thumb/17652134/NBA.png",NBA HD
+https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652133/NFL1.png",NFL HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV 1
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-id="spotv2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17655874/ONEGOLF.png",One Golf HD
+https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://www.upload.ee/image/17655897/FightSports.png",Fight Sport
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652160/BILLIARDTV.png",BILLIARD TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652198/Hisport.png",HiSports HD
+http://203.154.243.89:11001/hisport?m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/spotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/spotv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Zz0zN2MyODZlNjQ4M2QxMWVlYjE4YmYyOTc0ZmNlODAwZA.png",Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36

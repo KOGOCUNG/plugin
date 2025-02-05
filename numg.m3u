@@ -24,16 +24,16 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://png.pngtree.com/png-clipart/20230914/original/pngtree-science-icon-vector-png-image_12147944.png",วิทยาศาสตร์
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://png.pngtree.com/png-clipart/20230914/original/pngtree-science-icon-vector-png-image_12147944.png",ช่องวิทยาศาสตร์
 http://45.144.165.187:8080/playidtv1/12345/84
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/512x512/Horror.png",สยองขวัญ
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/512x512/Horror.png",ช่องสยองขวัญ
 http://45.144.165.187:8080/playidtv1/12345/15672
 
-#EXTINF:-1 tvg-id=""group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ซีรี่ย์
+#EXTINF:-1 tvg-id=""group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ช่องซีรี่ย์
 http://45.144.165.187:8080/playidtv1/12345/17239
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/3619/3619199.png",ดูหนัง
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/3619/3619199.png",ช่องดูหนัง
 http://45.144.165.187:8080/playidtv1/12345/17788
 
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
@@ -66,7 +66,7 @@ http://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playli
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",ช่องการ์ตูน
 http://45.144.165.187:8080/playidtv1/12345/11041
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png", JKN 18

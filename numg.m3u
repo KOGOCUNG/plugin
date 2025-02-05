@@ -30,8 +30,10 @@ http://45.144.165.187:8080/playidtv1/12345/84
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/512x512/Horror.png",ช่องสยองขวัญ
 http://45.144.165.187:8080/playidtv1/12345/15672
 
-#EXTINF:-1 tvg-id=""group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ช่องซีรี่ย์
-http://45.144.165.187:8080/playidtv1/12345/17239
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/3619/3619199.png",ช่องดูหนัง
 http://45.144.165.187:8080/playidtv1/12345/17788
@@ -77,10 +79,8 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่องมังกร
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+#EXTINF:-1 tvg-id=""group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ช่องซีรี่ย์
+http://45.144.165.187:8080/playidtv1/12345/17239
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
@@ -218,6 +218,11 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ไทบ้านทีวี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
@@ -279,25 +284,18 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
-
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652162/Animax.png",ANIMAX
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="tps://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/350?cb=20180730143228",ANIMAX
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon Network
-https://cdn09jtedge.indihometv.com/joss/130/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
@@ -311,11 +309,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652161/BoomAnime.png",BOOM ANIME
 https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" ,Zoo Moo
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17681204/Mr.Bean.png" ,Mr. Bean Cartoon
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17681204/Mr.Bean.png",Mr. Bean Cartoon
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652133/NFL1.png",NFL NETWORK
@@ -323,9 +320,78 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/nfl/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17657350/WMovies.png" ,World Movies
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17657350/WMovies.png",World Movies
 http://203.154.243.89:11001/izaa?m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://github.com/playtvthai/m3u8/raw/main/sports/golf2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="ไทยทีวีออนไลน์",True Film Asia
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+
+#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
+
+#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ไทยทีวีออนไลน์", True Crime+Investigation
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="ไทยทีวีออนไลน์",BBCLifestyle
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
+
+#EXTINF:-1  tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="ไทยทีวีออนไลน์",TRUE Lifetime
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+
+#EXTINF:-1  tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ไทยทีวีออนไลน์",True AXN
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+
+#EXTINF:-1  tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="ไทยทีวีออนไลน์", TRUE HISTORY
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ไทยทีวีออนไลน์",TRUE DreamWorks 
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ไทยทีวีออนไลน์",TRUE SPARK PLAY
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+
+#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" ,TRUE Nickjr
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
+
+#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
+
+#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
@@ -443,76 +509,6 @@ https://cdn1.googlecdn.live/4k/bein9/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein10/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://github.com/playtvthai/m3u8/raw/main/sports/golf2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
-https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="ไทยทีวีออนไลน์",True Film Asia
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
-
-#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
-
-#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ไทยทีวีออนไลน์", True Crime+Investigation
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="ไทยทีวีออนไลน์",BBCLifestyle
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
-
-#EXTINF:-1  tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="ไทยทีวีออนไลน์",TRUE Lifetime
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
-
-#EXTINF:-1  tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ไทยทีวีออนไลน์",True AXN
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
-
-#EXTINF:-1  tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="ไทยทีวีออนไลน์", TRUE HISTORY
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ไทยทีวีออนไลน์",TRUE DreamWorks 
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ไทยทีวีออนไลน์",TRUE SPARK PLAY
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
-
-#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" ,TRUE Nickjr
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
-
-#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
-
-#EXTINF:-1  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
-
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://fw4free.com/channel/ch1.webp",EPL-1
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
@@ -595,22 +591,109 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-id="spotv2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV 2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
-
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17655874/ONEGOLF.png",One Golf HD
 https://sscsott.com/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://www.upload.ee/image/17655897/FightSports.png" ,Fight Sport
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://www.upload.ee/image/17655897/FightSports.png",Fight Sport
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652160/BILLIARDTV.png",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652198/Hisport.png", HiSports HD
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652198/Hisport.png",HiSports HD
 http://203.154.243.89:11001/hisport?m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652242/Jsports1.png",J SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652243/Jsports2.png",J SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652248/Jsports3.png",J SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652249/Jsports4.png",J SPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai01 
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai01 
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai1/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",BallThai02
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai2/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",BallThai02
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai2/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai03
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai3/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai03
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai3/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",BallThai04
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai4/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",BallThai04
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai4/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",BallThai05
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai5/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",BallThai05
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai5/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",BallThai06
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai6/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",BallThai06
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai6/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",BallThai07
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai7/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",BallThai07
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai7/playlist.m3u8
+
+##EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",BallThai08
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai8/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",BallThai08
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai8/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",BallThai09
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",BallThai09
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai9/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
+#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
+https://cdn1.googlecdn.live/dooballrealtime/trueballthai10/playlist.m3u8
+
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Zz0zN2MyODZlNjQ4M2QxMWVlYjE4YmYyOTc0ZmNlODAwZA.png",Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -623,98 +706,6 @@ http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652255/Redbull1.png",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652242/Jsports1.png", J SPORTS 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652243/Jsports2.png", J SPORTS 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652248/Jsports3.png", J SPORTS 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652249/Jsports4.png", J SPORTS 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai1/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",BallThai2
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai2/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",BallThai2
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai2/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai3
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai3/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai3
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai3/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",BallThai4
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai4/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",BallThai4
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai4/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",BallThai5
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai5/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",BallThai5
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai5/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",BallThai6
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai6/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",BallThai6
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai6/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",BallThai7
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai7/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",BallThai7
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai7/playlist.m3u8
-
-##EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",BallThai8
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai8/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",BallThai8
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai8/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",BallThai9
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",BallThai9
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai9/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
-#EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
-https://cdn1.googlecdn.live/dooballrealtime/trueballthai10/playlist.m3u8
-
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
 
 ########################################
 หนังใหม่-2025 21/01/2025

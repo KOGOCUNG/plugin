@@ -281,9 +281,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17667472/Loupe.png",Loupe Channel
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
@@ -292,15 +289,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="tps://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/350?cb=20180730143228",ANIMAX
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
-https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/w7RdSIk.png",Pet Collective
-https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/ykPNNwQ.png",PetClub TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652161/BoomAnime.png",BOOM ANIME
 https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
@@ -311,10 +299,19 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17681204/Mr.Bean.png",Mr. Bean Cartoon
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/w7RdSIk.png",Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/ykPNNwQ.png",PetClub TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652133/NFL1.png",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/nfl/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ไทบ้านทีวี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36

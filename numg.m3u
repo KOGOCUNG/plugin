@@ -1,15 +1,15 @@
  #EXTM3U
 
 ########################################
-ไทยทีวีออนไลน์
+❤️ช่องBallThai
 ########################################
 
 --------------------------------------------------------------------------------------
 ###BallThai###
-#EXTINF:-1 group-title="1️⃣ ช่องBallThai" tvg-id="1️⃣ ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
+#EXTINF:-1 group-title="❤️ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
 #EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
 https://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8
-#EXTINF:-1 group-title="1️⃣ ช่องBallThai" tvg-id="1️⃣ ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
+#EXTINF:-1 group-title="❤️ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/trueballthai1/playlist.m3u8
 #EXTINF:-1 group-title="1️⃣ ช่องBallThai" tvg-id="1️⃣ ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 

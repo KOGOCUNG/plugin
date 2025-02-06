@@ -32,23 +32,10 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://png.pngtree.com/png-clipart/20230914/original/pngtree-science-icon-vector-png-image_12147944.png",ช่องวิทยาศาสตร์
-http://45.144.165.187:8080/playidtv1/12345/84
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/512x512/Horror.png",ช่องสยองขวัญ
-http://45.144.165.187:8080/playidtv1/12345/15672
-
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:xinputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/3619/3619199.png",ช่องดูหนัง
-http://45.144.165.187:8080/playidtv1/12345/17788
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
-http://45.144.165.187:8080/playidtv1/12345/17237
-ttps://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png",TPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,22 +63,11 @@ http://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playli
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.tvjaa.com/storage/tv-channels/yateem.png",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",JKN 18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่องมังกร
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
-https://server1.streamssl.com/stream/news1_mid.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
-https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png", Nation TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -112,11 +88,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",CH8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -229,10 +200,56 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",ช่องการ์ตูน
 http://45.144.165.187:8080/playidtv1/12345/11041
 
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://png.pngtree.com/png-clipart/20230914/original/pngtree-science-icon-vector-png-image_12147944.png",ช่องวิทยาศาสตร์
+http://45.144.165.187:8080/playidtv1/12345/84
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/512x512/Horror.png",ช่องสยองขวัญ
+http://45.144.165.187:8080/playidtv1/12345/15672
+
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/3619/3619199.png",ช่องดูหนัง
+http://45.144.165.187:8080/playidtv1/12345/17788
 
 #EXTINF:-1 tvg-id=""group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ช่องซีรี่ย์
 http://45.144.165.187:8080/playidtv1/12345/17239
 
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+http://203.154.243.89:11001/izaa?m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+http://49.0.64.96:8007/PING
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
+http://49.0.64.96:8007/Animal
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.tvjaa.com/storage/tv-channels/yateem.png",YATEEM TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่องมังกร
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
+http://45.144.165.187:8080/playidtv1/12345/17237
+https://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -283,6 +300,11 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -400,20 +422,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",TRUE ANIMALPLANET
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
-http://203.154.243.89:11001/izaa?m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
-http://49.0.64.96:8007/Cartoonumi
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
-http://49.0.64.96:8007/PING
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
-http://49.0.64.96:8007/AMAZING
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
-http://49.0.64.96:8007/Animal
 
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36

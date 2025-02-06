@@ -2,16 +2,16 @@
 
 
 ########################################
-🧡ทีวีดิจิตอลไทย
+❤️ช่องทีวีดิจิตอลไทย
 ########################################
 
-#EXTINF:-1 tvg-id="" group-title="🧡ทีวีดิจิตอลไทย" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
+#EXTINF:-1 tvg-id="" group-title="❤️ช่องทีวีดิจิตอลไทย" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
 http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="2️⃣ ช่องทีวีดิจิตอลไทย",THAI PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="2️⃣ ช่องทีวีดิจิตอลไทย",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="tv5.iptv36.my.to" group-title="2️⃣ ช่องทีวีดิจิตอลไทย" tvg-logo="https://iptv36.my.to/logo/tv5.png",TV5 FHD
+#EXTINF:-1 tvg-id="" group-title="❤️ช่องทีวีดิจิตอลไทย" tvg-logo="https://iptv36.my.to/logo/tv5.png",TV5 FHD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="2️⃣ ช่องทีวีดิจิตอลไทย",T Sports 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive

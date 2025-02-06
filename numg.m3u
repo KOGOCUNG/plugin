@@ -388,6 +388,21 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",TRUE ANIMALPLANET
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+http://203.154.243.89:11001/izaa?m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+http://49.0.64.96:8007/PING
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
+http://49.0.64.96:8007/Animal
+
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
@@ -703,41 +718,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 ########################################
 
 
---------------------------------------------------------------------------------------
-###PREMIUM PLAY TV###
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://203.154.243.89:11001/izaa?m3u8
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/17237
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/PING
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/84
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/17788
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-id="" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/18833
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/15672
-#EXTINF:-1 group-title="💙ช่องเล่นทีวี" tvg-id="" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/17239
+
 
 ########################################
 หนังใหม่-2025 21/01/2025

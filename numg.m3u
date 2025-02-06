@@ -713,6 +713,11 @@ http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://img2.pic.in.th/pic/images52505e220d433d2a.png" , GO Sports
+https://cdn-th-vip.livestreaming.in.th/gosporttv/gosporttv/playlist.m3u8
+
+
 ########################################
 💙ช่องเล่นทีวี
 ########################################

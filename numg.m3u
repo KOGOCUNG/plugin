@@ -688,7 +688,7 @@ https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmr9glsImn93TD3MY0B431uj8Ml-GH6ov2HWbHjULm5fBKBMW-dLuD2A&s=10",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652198/Hisport.png",HiSports HD
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="http://www.onlinethailand.net/tv_online/images/hi-sport.jpg",HiSports HD
 http://203.154.243.89:11001/hisport?m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1

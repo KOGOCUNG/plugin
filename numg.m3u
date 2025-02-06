@@ -652,7 +652,7 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์"  tvg-logo="https://www.upload.ee/thumb/17652134/NBA.png",NBA HD
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์"  tvg-logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.webp",NBA HD
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652133/NFL1.png",NFL HD

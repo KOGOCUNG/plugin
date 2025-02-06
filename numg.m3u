@@ -210,6 +210,9 @@ http://45.144.165.187:8080/playidtv1/12345/17788
 #EXTINF:-1 tvg-id=""group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ช่องซีรี่ย์
 http://45.144.165.187:8080/playidtv1/12345/17239
 
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
+http://45.144.165.187:8080/playidtv1/12345/17237
+
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 http://203.154.243.89:11001/izaa?m3u8
 
@@ -239,15 +242,6 @@ https://server1.streamssl.com/stream/news1_mid.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
-http://45.144.165.187:8080/playidtv1/12345/17237
-https://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey

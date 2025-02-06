@@ -76,8 +76,8 @@ http://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playli
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 
-#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",ช่องการ์ตูน
-http://45.144.165.187:8080/playidtv1/12345/11041
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.tvjaa.com/storage/tv-channels/yateem.png",YATEEM TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",JKN 18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -87,8 +87,8 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่องมังกร
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ช่องซีรี่ย์
-http://45.144.165.187:8080/playidtv1/12345/17239
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
+https://server1.streamssl.com/stream/news1_mid.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
@@ -226,6 +226,14 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
+#EXTINF:-1 group-title="ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",ช่องการ์ตูน
+http://45.144.165.187:8080/playidtv1/12345/11041
+
+
+#EXTINF:-1 tvg-id=""group-title="ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ช่องซีรี่ย์
+http://45.144.165.187:8080/playidtv1/12345/17239
+
+
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
@@ -247,11 +255,6 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
 
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.tvjaa.com/storage/tv-channels/yateem.png",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
-https://server1.streamssl.com/stream/news1_mid.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",MONO PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey

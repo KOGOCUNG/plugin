@@ -37,6 +37,10 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
 #KODIPROP:xinputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/6/6.mpd
+
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png",TPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
@@ -93,9 +97,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
-
-#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",แอดทีวี
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono 29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -233,6 +234,9 @@ https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่องมังกร
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",แอดทีวี
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
 https://server1.streamssl.com/stream/news1_mid.m3u8

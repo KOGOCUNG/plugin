@@ -1,7 +1,15 @@
 #EXTM3U
 
 ########################################
-❤️🧡💛💚💙💜🤎🖤🤍♥️♦️♣️♠️♈♉♊♋♌♍♎♏♐♑♒♓⛎♀️ช่องทีวีออนไลน์
+❤️1
+🧡2
+💛3
+💚4
+💙5
+💜6
+🤎7
+🖤8
+🤍9ช่องทีวีออนไลน์
 ########################################
 
 #EXTINF:-1 tvg-id=""  group-title="ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",CH5 HD
@@ -639,7 +647,7 @@ https://github.com/playtvthai/m3u8/raw/main/sports/golf2.m3u8
 #EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",TRUE Tennis
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://www.upload.ee/image/17652004/Sports1.png",Sport One
+#EXTINF:-1 tvg-id="" group-title="ไทยทีวีออนไลน์" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2025/Sports-One.png",Sport One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd

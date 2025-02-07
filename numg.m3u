@@ -740,7 +740,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧡หนังใหม่-2025" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย-187x269.png",คาเลนดาร์คิลเลอร์ วันสั่งตาย (2025)
 https://main.24playerhd.com/newplaylist/1b5fd4d95c2691866e9c8db4/1b5fd4d95c2691866e9c8db4.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🧡หนังใหม่-2025" https://movie.server-cdn-streaming.com/api/uploads/movie/5467/20250118154757cuYZ.jpg",สายลับกลับมาลุย (2025)
+#EXTINF:-1 tvg-id="" group-title="🧡หนังใหม่-2025" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5467/20250118154757cuYZ.jpg",สายลับกลับมาลุย (2025)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/movie.m3u8
 
 ########################################

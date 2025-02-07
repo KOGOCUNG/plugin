@@ -1,51 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://dookeela.live/uploads/1705536821.png",สำรวจโลก
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH1.png",ACC ShopeeCup Live 1
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH2.png",ACC ShopeeCup Live 2
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=42d24ee4801cb5228d1b7331495a99dd&chunkHttps=true&tmid=V0048&tpbk=y8dw3YGl6KRslgtM&rrt=1738890316&tmod=rfk&rsid=add4a079-fdc8-4270-b548-fdd22ac48d13&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=82cedb8b9bb0c7cc01b6ab17122720e5&origin=anevia&tfa=f0-fc&tttl=1738976414
 
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH3.png",ACC ShopeeCup Live 3
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=42d24ee4801cb5228d1b7331495a99dd&chunkHttps=true&tmid=V0048&tpbk=y8dw3YGl6KRslgtM&rrt=1738890316&tmod=rfk&rsid=add4a079-fdc8-4270-b548-fdd22ac48d13&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=82cedb8b9bb0c7cc01b6ab17122720e5&origin=anevia&tfa=f0-fc&tttl=1738976414
 
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_1.png",ASIAN WINTER GAMES CH1
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/AH0001/HLS/AH0001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=42d24ee4801cb5228d1b7331495a99dd&chunkHttps=true&tmid=V0048&tpbk=y8dw3YGl6KRslgtM&rrt=1738890316&tmod=rfk&rsid=add4a079-fdc8-4270-b548-fdd22ac48d13&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=82cedb8b9bb0c7cc01b6ab17122720e5&origin=anevia&tfa=f0-fc&tttl=1738976414
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_2.png",ASIAN WINTER GAMES CH2
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/902/902.mpd
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_3.png",ASIAN WINTER GAMES CH3
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/903/903.mpd
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_4.png",ASIAN WINTER GAMES CH4
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/904/904.mpd
-
-
-#EXTINF:-1tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://dookeela.live/uploads/1717696038.png",*DOOKEELA",TLC
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/tlc.m3u8
 
 ########################################
 ❤️ช่องทีวีออนไลน์      ดิจิตอลทีวี
@@ -240,6 +197,10 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 ❤️ช่องทีวีออนไลน์      บันเทิง
 ########################################
 
+#EXTINF:-1tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://dookeela.live/uploads/1717696038.png",*DOOKEELA",TLC
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/tlc.m3u8
+
 ########################################
 ❤️ช่องทีวีออนไลน์      เด็ก
 ########################################
@@ -247,11 +208,58 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 ########################################
 ❤️ช่องทีวีออนไลน์      ช่องกีฬา
 ########################################
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH1.png",ACC ShopeeCup Live 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH2.png",ACC ShopeeCup Live 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=42d24ee4801cb5228d1b7331495a99dd&chunkHttps=true&tmid=V0048&tpbk=y8dw3YGl6KRslgtM&rrt=1738890316&tmod=rfk&rsid=add4a079-fdc8-4270-b548-fdd22ac48d13&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=82cedb8b9bb0c7cc01b6ab17122720e5&origin=anevia&tfa=f0-fc&tttl=1738976414
+
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH3.png",ACC ShopeeCup Live 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=42d24ee4801cb5228d1b7331495a99dd&chunkHttps=true&tmid=V0048&tpbk=y8dw3YGl6KRslgtM&rrt=1738890316&tmod=rfk&rsid=add4a079-fdc8-4270-b548-fdd22ac48d13&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=82cedb8b9bb0c7cc01b6ab17122720e5&origin=anevia&tfa=f0-fc&tttl=1738976414
+
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_1.png",ASIAN WINTER GAMES CH1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/AH0001/HLS/AH0001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=42d24ee4801cb5228d1b7331495a99dd&chunkHttps=true&tmid=V0048&tpbk=y8dw3YGl6KRslgtM&rrt=1738890316&tmod=rfk&rsid=add4a079-fdc8-4270-b548-fdd22ac48d13&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=82cedb8b9bb0c7cc01b6ab17122720e5&origin=anevia&tfa=f0-fc&tttl=1738976414
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_2.png",ASIAN WINTER GAMES CH2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/902/902.mpd
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_3.png",ASIAN WINTER GAMES CH3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/903/903.mpd
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_4.png",ASIAN WINTER GAMES CH4
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/904/904.mpd
+
+
+
+
+########################################
+❤️ช่องทีวีออนไลน์      การค้นพบ
+########################################
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://dookeela.live/uploads/1705536821.png",สำรวจโลก
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
 ########################################
 ❤️ช่องทีวีออนไลน์      ข่าว
 ########################################
-
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",ช่องการ์ตูน
 http://45.144.165.187:8080/playidtv1/12345/11041

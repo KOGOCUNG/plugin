@@ -364,10 +364,10 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
 
-#EXTINF:-1  group-title="❤️ไทยทีวีออนไลน์" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 
-#EXTINF:-1  group-title="❤️ไทยทีวีออนไลน์" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="❤️ไทยทีวีออนไลน์", True Crime+Investigation
@@ -881,17 +881,16 @@ https://main.24playerhd.com/newplaylist/00050cca811fac21a2c52e11/00050cca811fac2
 #EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/The-Piano-Lesson-บทเรียนจากเปียโน-2024.jpg",The Piano Lesson (2024) บทเรียนจากเปียโน
 https://main.24playerhd.com/newplaylist/9aa168942f16ed04c3937537/9aa168942f16ed04c3937537.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล.jpg",  Twilight of the Warriors Walled In (2024) เมืองพญายม ปิดบัญชียมบาล
+#EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล.jpg",Twilight of the Warriors Walled In (2024) เมืองพญายม ปิดบัญชียมบาล
 https://main.24playerhd.com/newplaylist/ee480331e38c172bb43af344/ee480331e38c172bb43af344.m3u8
  
-           The Wild Blade of Strangers (2024) นักดาบคนแปลกหน้า",
 #EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024-นักดาบคนแปลกหน้า-1.jpg",The Wild Blade of Strangers (2024) นักดาบคนแปลกหน้า
 https://main.24playerhd.com/newplaylist/a51f5284c7a7c465db37b1a4/a51f5284c7a7c465db37b1a4.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Elevation-2024-อสุรกายขย้ำ-8000-ฟุต-2.png", Elevation (2024) อสุรกายขย้ำ 8000 ฟุต
+#EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Elevation-2024-อสุรกายขย้ำ-8000-ฟุต-2.png",Elevation (2024) อสุรกายขย้ำ 8000 ฟุต
 https://main.24playerhd.com/newplaylist/e985f8ca0ffafce1ee148731/e985f8ca0ffafce1ee148731.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Absolution-คนสันดานเดือด-2024-1.png", Absolution (2024) คนสันดานเดือด
+#EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Absolution-คนสันดานเดือด-2024-1.png",Absolution (2024) คนสันดานเดือด
 https://main.24playerhd.com/newplaylist/8330ee7de36d5a18455db9c6/8330ee7de36d5a18455db9c6.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-แดนสาป.png",The Cursed Land (2024) แดนสาป
@@ -1244,6 +1243,11 @@ https://main.24playerhd.com/newplaylist/fd6e9fb53c09d692e66a4db1/fd6e9fb53c09d69
  
 #EXTINF:-1 tvg-id="" group-title="💛หนังใหม่-2024" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Boy-and-the-Heron-2023-เด็กชายกับนกกระสา.jpg",The Boy and the Heron (2023) เด็กชายกับนกกระสา",
 https://main.24playerhd.com/newplaylist/fe610bdaf804ded6c473698c/fe610bdaf804ded6c473698c.m3u8
+
+
+
+
+
 
 ########################################
 💚4

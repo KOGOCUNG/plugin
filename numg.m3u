@@ -1,7 +1,10 @@
- #EXTM3U
+#EXTM3U
 
-#EXTINF:-1 group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="News",13 Siam Thai
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/FvEp1S2.png",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/KvdFCD5.png",Boonniyom TV
+https://live.x2.co.th/live/bntv.m3u8
 
 
 ########################################

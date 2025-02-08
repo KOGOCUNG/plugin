@@ -375,6 +375,26 @@ https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://img2.pic.in.th/pic/445cf13921c3cc0b043e591a01f3c575.png",KPOP
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" group-title="Movies" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59-768x512.png",Cool Channel
+https://live.cool-channel.com:443/cool/live-720P.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_AsYJg1i26HkGRt0TjIE4CdhwMq7mconP.jpg",ลิโด้ Channel
+https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/37_x_f74aMjmg5Q6TrVRSivyN9A2BoUpx8dcL.jpg",สยาม Channel
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/39_y_XlQsEw0e6upJZHaLvYhof1W3DkS9yTPi.png",สกาล่า Channel
+https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media.info/l/f/1/1482.1508556245.png",MTV LIVE
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO98DR5097WjwXQls_BGjX0VTM7d2JVSPvXi-QKnvrg3UBgW4uJ6D-LXI&s=10",ไทไชโย
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+
 ########################################
 ❤️ช่องทีวีออนไลน์      เด็ก
 ########################################
@@ -984,18 +1004,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 ########################################
 🧡หนังใหม่-2025

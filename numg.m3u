@@ -565,20 +565,14 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_1.png",ASIAN WINTER GAMES CH1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/AH0001/HLS/AH0001.m3u8
-
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/902/902.mpd
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_2.png",ASIAN WINTER GAMES CH2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/902/902.mpd
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_3.png",ASIAN WINTER GAMES CH3
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/903/903.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_4.png",ASIAN WINTER GAMES CH4
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_3.png",ASIAN WINTER GAMES CH3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/904/904.mpd

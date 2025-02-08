@@ -7,9 +7,15 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://live.x2.co.th/live/bntv.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://dookeela.live/uploads/1705536821.png",test
-#EXTVLCOPT:http-user-url=https://dookeela.live/live-tv/samrujlok
+https://dookeela.live/live-tv/samrujlok
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
+
+
 
 ########################################
 ❤️ช่องทีวีออนไลน์      ดิจิตอลทีวี

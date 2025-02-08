@@ -342,7 +342,7 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH
 ❤️ช่องทีวีออนไลน์      ข่าว
 ########################################
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.tvjaa.com/storage/tv-channels/yateem.png",YATEEM TV
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png",YATEEM TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
@@ -418,7 +418,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVER
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",DISCOVER
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",MONO PLUS

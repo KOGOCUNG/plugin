@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 
 ########################################
 ❤️ช่องทีวีออนไลน์      ดิจิตอลทีวี
@@ -60,7 +60,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 #KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png", Nation TV
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png",Nation TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
@@ -262,7 +262,7 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0089/DASH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0094/DASH/V0094.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png", MySci
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",MySci
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
@@ -272,7 +272,7 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png", CNN 
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png",CNN 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1a2180a2489df5ab7f950fe447ba60b:972ce3ee5c678f04b94212690f9ac76c
@@ -304,7 +304,7 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0174/DASH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0122/DASH/V0122.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png", UERO NEWS
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png",UERO NEWS
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0119/DASH/V0119.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
@@ -451,7 +451,6 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL003/DASH
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL004/DASH/JL004.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
-
 ########################################
 ❤️ช่องทีวีออนไลน์
 ########################################
@@ -474,7 +473,7 @@ http://203.154.243.89:11001/izaa?m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRy5zMtiI9h3DfTwi1XvKfqsN1nJZeTS59ZFBVfG-UYrQekGbwX3EZ1b0Gp5qWr63lN6Q&usqp=CAU",TOONME
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="hhttps://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
 http://49.0.64.96:8007/PING
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING

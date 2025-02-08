@@ -330,6 +330,12 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0193/DASH
 ❤️ช่องทีวีออนไลน์      เด็ก
 ########################################
 
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",ช่องการ์ตูน
+http://45.144.165.187:8080/playidtv1/12345/11041
+
+
+
+
 ########################################
 ❤️ช่องทีวีออนไลน์      ข่าว
 ########################################
@@ -455,8 +461,7 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL004/DASH
 ❤️ช่องทีวีออนไลน์
 ########################################
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",ช่องการ์ตูน
-http://45.144.165.187:8080/playidtv1/12345/11041
+
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/512x512/Horror.png",ช่องสยองขวัญ
 http://45.144.165.187:8080/playidtv1/12345/15672
@@ -1865,7 +1870,6 @@ https://main.24playerhd.com/newplaylist/dda36d635955666e9db92afa/dda36d635955666
 #EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย.jpg", Late Night with the Devil (2023) คืนนี้ผีมาคุย
 https://main.24playerhd.com/newplaylist/e6b420cae5275d981617ece7/e6b420cae5275d981617ece7.m3u8
 
- How To Have Sex (2023) ซิงนั้นสำคัญไฉน
 #EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/How-To-Have-Sex-2023-ซิงนั้นสำคัญไฉน.jpg",
 https://main.24playerhd.com/newplaylist/f843824bfbe6f2a0a07924a6/f843824bfbe6f2a0a07924a6.m3u8
 
@@ -2001,6 +2005,155 @@ https://main.24playerhd.com/newplaylist/98975f7d90973bbc0ed4bde2/98975f7d90973bb
 #EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Miraculous-Ladybug-Cat-Noir-The-Movie-2023-ฮีโร่มหัศจรรย์-เลดี้บัก-และ-แคทนัวร์.jpg", Miraculous Ladybug & Cat Noir The Movie (2023) ฮีโร่มหัศจรรย์ เลดี้บัก และ แคทนัวร์
 https://main.24playerhd.com/newplaylist/7cf3dde4f8bf58d141a71013/7cf3dde4f8bf58d141a71013.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Liaozhai-Painting-Wall-2023-กำแพงภาพปีศาจ.jpg", Liaozhai Painting Wall (2023) กำแพงภาพปีศาจ
+https://main.24playerhd.com/newplaylist/0828c1ccfb04136d7ad1a1da/0828c1ccfb04136d7ad1a1da.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Loser-Lover-2023-บังเอิญรัก-ข่อยฮักเจ้า.jpg", Loser Lover (2023) บังเอิญรัก ข่อยฮักเจ้า
+https://main.24playerhd.com/newplaylist/538107565a259ebf6005f26a/538107565a259ebf6005f26a.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Disquiet-2023.jpg", Disquiet (2023)
+https://main.24playerhd.com/newplaylist/a7f09e490fc3d30559cbed64/a7f09e490fc3d30559cbed64.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/The-Wonderful-Story-Of-Henry-Sugar-2023-เรื่องเล่าหรรษาของเฮนรี่-ซูการ์.jpg", The Wonderful Story Of Henry Sugar (2023) เรื่องเล่าหรรษาของเฮนรี่ ซูการ์
+https://main.24playerhd.com/newplaylist/914dd4a1cbc7f83627189402/914dd4a1cbc7f83627189402.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Not-Friends-2023-เพื่อนไม่สนิท.jpg", Not Friends (2023) เพื่อน(ไม่)สนิท
+https://main.24playerhd.com/newplaylist/01344b5a65162f096d1b6acd/01344b5a65162f096d1b6acd.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Crayon-Shin-chan-Movie-30-Mononoke-Ninja-Chinpuuden-2023-ตอน-นินจาคาถาวายุอลเวง.jpg", Crayon Shin-chan Movie 30 Mononoke Ninja Chinpuuden (2023) ตอน นินจาคาถาวายุอลเวง
+https://main.24playerhd.com/newplaylist/06eee8f970fa5442e69940e3/06eee8f970fa5442e69940e3.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/The-River-2023-สามผู้กล้าท้าแม่น้ำลับ.jpg", The River (2023) สามผู้กล้าท้าแม่น้ำลับ
+https://main.24playerhd.com/newplaylist/78da2e5717ae200dfab40e6d/78da2e5717ae200dfab40e6d.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Mafia-Mamma-2023.jpg", Mafia Mamma (2023)
+https://main.24playerhd.com/newplaylist/3c67f15937de437888c376e0/3c67f15937de437888c376e0.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ.jpg", The Undertaker (2023) สัปเหร่อ
+https://main.24playerhd.com/newplaylist/fa0618ad16c8e18530e3646d/fa0618ad16c8e18530e3646d.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Death-Is-All-Around-2023-อยากตาย-อย่าตาย-มรณาคาเฟ่-1.jpg", Death Is All Around (2023) อยากตาย อย่าตาย มรณาคาเฟ่
+https://main.24playerhd.com/newplaylist/c8b41b7b7e4effd0a44071ce/c8b41b7b7e4effd0a44071ce.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Migration-2023-ครอบครัวเป็ดผจญภัย.jpg", Migration (2023) ครอบครัวเป็ดผจญภัย
+https://main.24playerhd.com/newplaylist/ed963f0b1b96c4527c7fb86e/ed963f0b1b96c4527c7fb86e.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/ManSuang-2023-แมนสรวง.jpg", ManSuang (2023) แมนสรวง
+https://main.24playerhd.com/newplaylist/040dea72144bbd681eb8acee/040dea72144bbd681eb8acee.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Bad-Ass-Maid-2023-5-แม่บ้านถล่มมาเฟีย.jpg", Bad Ass Maid (2023) 5 แม่บ้านถล่มมาเฟีย
+https://main.24playerhd.com/newplaylist/ab5fbe508fcd9345090263c1/ab5fbe508fcd9345090263c1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Inside-2023.jpg", Inside (2023)
+https://main.24playerhd.com/newplaylist/fdaf58e21e0640a9b67a195a/fdaf58e21e0640a9b67a195a.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Through-My-Window-Across-the-Sea-2023.jpg", Through My Window Across the Sea (2023) รักผ่านหน้าต่าง หัวใจข้ามทะเล
+https://main.24playerhd.com/newplaylist/fe1b47441f8ecf4c83b790f5/fe1b47441f8ecf4c83b790f5.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์.jpg", Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์
+https://main.24playerhd.com/newplaylist/b5ddea6f131bc716037fdf35/b5ddea6f131bc716037fdf35.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Champions-2023.jpg", Champions (2023)
+https://main.24playerhd.com/newplaylist/16090db441ec893521d10b71/16090db441ec893521d10b71.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023-โรงเรียนผีเฮี้ยน.jpg", The Bridge Curse Ritual (2023) โรงเรียนผีเฮี้ยน
+https://main.24playerhd.com/newplaylist/2dd9283986e78410933ad885/2dd9283986e78410933ad885.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/The-Last-Breath-of-Sam-Yan-2023.jpg", The Last Breath of Sam Yan (2023)
+https://main.24playerhd.com/newplaylist/ad2d783eaef193b4a9320bfd/ad2d783eaef193b4a9320bfd.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Ride-On-2023-ควบสู้ฟัด.jpg", Ride On (2023) ควบสู้ฟัด
+https://main.24playerhd.com/newplaylist/4befafc9ac161affa0dd2bc2/4befafc9ac161affa0dd2bc2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2-2023-ผู้พิทักษ์หมัดเทวดา-2.jpg", The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2
+https://main.24playerhd.com/newplaylist/40ec4ac890d9782ed5571050/40ec4ac890d9782ed5571050.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/14-Again-I-Love-You-Two-Thousand-2023-14-อีกครั้ง.jpg",14 Again I Love You Two Thousand (2023) 14 อีกครั้ง
+https://main.24playerhd.com/newplaylist/8ac6265b78cd9d572eb514f6/8ac6265b78cd9d572eb514f6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Bad-Social-2023-เกม-ล่า-ตาย.jpg", Bad Social (2023) เกม / ล่า / ตาย
+https://main.24playerhd.com/newplaylist/951b4a1923cb7646e1051d7e/951b4a1923cb7646e1051d7e.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก.jpg", The Roundup No Way Out (2023) บู๊ระห่ำล่าล้างนรก ทุบนรกแตก
+https://main.24playerhd.com/newplaylist/14f851ced055973ad561ab9d/14f851ced055973ad561ab9d.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-3.jpg", Trolls Band Together (2023) โทรลล์ส 3
+https://main.24playerhd.com/newplaylist/6822c64a7133659df524509b/6822c64a7133659df524509b.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์.jpg", The Marvels (2023) เดอะ มาร์เวลส์
+https://main.24playerhd.com/newplaylist/6b2577e7eafaf8b9df514272/6b2577e7eafaf8b9df514272.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Red-Life-2023-เรดไลฟ์.jpg", Red Life (2023) เรดไลฟ์
+https://main.24playerhd.com/newplaylist/931536ec05b46e22a8d8ba03/931536ec05b46e22a8d8ba03.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ.jpg", Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ
+https://main.24playerhd.com/newplaylist/ce206618ccfc1111da9e993d/ce206618ccfc1111da9e993d.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Operation-Fortune-Ruse-de-Guerre-2023-ปฏิบัติการระห่ำโคตรคนฟอร์จูน.jpg", Operation Fortune Ruse de Guerre (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
+https://main.24playerhd.com/newplaylist/1de538daa21dc29426b68f43/1de538daa21dc29426b68f43.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Legend-Of-Detective-Dee-2023-ตี๋เหรินเจี๋ย-คลองมังกรผวา.jpg", Legend Of Detective Dee (2023) ตี๋เหรินเจี๋ย คลองมังกรผวา
+https://main.24playerhd.com/newplaylist/4cf15b092adca9a212865690/4cf15b092adca9a212865690.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Haunting-of-the-Queen-Mary-2023-เรือผีปีศาจ.jpg", Haunting of the Queen Mary (2023) เรือผีปีศาจ
+https://main.24playerhd.com/newplaylist/fd9c065b1a5caa496d22ee76/fd9c065b1a5caa496d22ee76.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Wish-2023-พรมหัศจรรย์.jpg", Wish (2023) พรมหัศจรรย์
+https://main.24playerhd.com/newplaylist/a9ddd5e32d23af3afeed34c2/a9ddd5e32d23af3afeed34c2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Thanksgiving-2023-คืนเดือดเชือดขาช็อป.jpg", Thanksgiving (2023) คืนเดือดเชือดขาช็อป
+https://main.24playerhd.com/newplaylist/dd6a9ad565d107dfb1e409e4/dd6a9ad565d107dfb1e409e4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Wonka-2023-วองก้า.jpg", Wonka (2023) วองก้า
+https://main.24playerhd.com/newplaylist/25e7c16d33e90778767eecb7/25e7c16d33e90778767eecb7.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Five-Nights-at-Freddys-2023-5-คืนสยองที่ร้านเฟรดดี้.jpg", Five Nights at Freddy's (2023) 5 คืนสยองที่ร้านเฟรดดี้
+https://main.24playerhd.com/newplaylist/ea9c0d2e6846108fbb406612/ea9c0d2e6846108fbb406612.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/The-Kitchen-2024-เดอะ-คิทเช่น.jpg", The Kitchen (2024) เดอะ คิทเช่น
+https://main.24playerhd.com/newplaylist/2175a99188ca20f5e07a2320/2175a99188ca20f5e07a2320.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Quicksand-2023.jpg", Quicksand (2023)
+https://main.24playerhd.com/newplaylist/7a97a95686665da8a3ef3ad8/7a97a95686665da8a3ef3ad8.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Red-Dawn-2012-หน่วยรบพันธุ์สายฟ้า.jpg", Red Dawn (2012) หน่วยรบพันธุ์สายฟ้า
+https://main.24playerhd.com/newplaylist/3d1b0316b41d941d0cbacdcc/3d1b0316b41d941d0cbacdcc.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Postman-2023-ไปรษณีย์-4-โลก.jpg", Postman (2023) ไปรษณีย์ 4 โลก
+https://main.24playerhd.com/newplaylist/27db5e6ea57d0eef8d9c094f/27db5e6ea57d0eef8d9c094f.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Maboroshi-2024-มาโบโรชิ.jpg", Maboroshi (2024) มาโบโรชิ
+https://main.24playerhd.com/newplaylist/9c4aa56535c1f286a3b9d352/9c4aa56535c1f286a3b9d352.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/The-Great-Magician-2023-จอมเวทย์มายา.jpg", The Great Magician (2023) จอมเวทย์มายา
+https://main.24playerhd.com/newplaylist/2d7bc05eafbf61b3e6c537fa/2d7bc05eafbf61b3e6c537fa.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Role-Play-2023-โรลเพลย์-สวมรอยมารัก.jpg", Role Play (2023) โรลเพลย์ สวมรอยมารัก
+https://main.24playerhd.com/newplaylist/53c3245d80230ac80286da5d/53c3245d80230ac80286da5d.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Child-the-Northeast-The-Indy-2023-อินดี้ลูกอีสาน.jpg", Child the Northeast The Indy (2023) อินดี้ลูกอีสาน
+https://main.24playerhd.com/newplaylist/ee8142b209960619e627f628/ee8142b209960619e627f628.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/After-Sundown-2023-ดับแสงรวี.jpg", After Sundown (2023) ดับแสงรวี
+https://main.24playerhd.com/newplaylist/bed3f120edae3e9a5fa75813/bed3f120edae3e9a5fa75813.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Gridman-Universe-2023-กริดแมนยูนิเวิร์ส.jpg", Gridman Universe (2023) กริดแมนยูนิเวิร์ส
+https://main.24playerhd.com/newplaylist/0634f3f1ce20489dedacb9f9/0634f3f1ce20489dedacb9f9.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Napoleon-2023-จักรพรรดินโปเลียน.jpg", Napoleon (2023) จักรพรรดินโปเลียน
+https://main.24playerhd.com/newplaylist/d27808fe04ff0082d08f6b38/d27808fe04ff0082d08f6b38.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Immersion-2023-เกาะผีดุ.jpg", Immersion (2023) เกาะผีดุ
+https://main.24playerhd.com/newplaylist/acda85fbbb7c4ea6de16551b/acda85fbbb7c4ea6de16551b.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Foe-2023-อมิตร.jpg", Foe (2023) อมิตร
+https://main.24playerhd.com/newplaylist/d86d55c56885f7b2cd94fdeb/d86d55c56885f7b2cd94fdeb.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Detective-Conan-Movie-26-Black-Iron-Submarine-2023-ยอดนักสืบจิ๋วโคนัน-เดอะมูฟวี่-26-มฤตยูใต้น้ำทมิฬ.jpg", Detective Conan Movie 26 Black Iron Submarine (2023) ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 26 มฤตยูใต้น้ำทมิฬ
+https://main.24playerhd.com/newplaylist/c40f09e26994f5a6d37a445b/c40f09e26994f5a6d37a445b.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💚หนังใหม่-2023" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Society-of-the-Snow-2024-หิมะโหดคนทรหด.jpg", Society of the Snow (2024) หิมะโหดคนทรหด
+https://main.24playerhd.com/newplaylist/c8ed81282223f5aec4cf2e9e/c8ed81282223f5aec4cf2e9e.m3u8
 
 
 

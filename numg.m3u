@@ -1,22 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/FvEp1S2.png",13 Siam Thai
-https://live.x2.co.th/live/13livetv-th.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/KvdFCD5.png",Boonniyom TV
-https://live.x2.co.th/live/bntv.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://dookeela.live/uploads/1705536821.png",test
-https://dookeela.live/live-tv/samrujlok
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
-
-
-
 ########################################
 ❤️ช่องทีวีออนไลน์      ดิจิตอลทีวี
 ########################################
@@ -750,7 +733,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_1.png",ASIAN WINTER GAMES CH1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/AH0001/HLS/AH0001.m3u8?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/AH0001/HLS/AH0001.m3u8?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_2.png",ASIAN WINTER GAMES CH2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -770,22 +753,22 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/904/904.mpd
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL001/DASH/JL001.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL001/DASH/JL001.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",SIAMSPORT2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL002/DASH/JL002.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL002/DASH/JL002.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",SIAMSPORT3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL003/DASH/JL003.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL003/DASH/JL003.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",SIAMSPORT4
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL004/DASH/JL004.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL004/DASH/JL004.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/NFL-Network.png",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36

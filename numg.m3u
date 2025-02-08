@@ -216,12 +216,18 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0165/DASH
 #KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0166/DASH/V0166.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
 
-
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",Asian Food Network
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0161/DASH/V0161.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png", Thainess
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0155/DASH/V0155.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dcdbb7b19a43d31e78351e707b283028&chunkHttps=true&tmid=B0014&tpbk=C6ldKOzPlJQDx1kl&rrt=1738940148&tmod=rfk&rsid=d89e0879-3bb4-4bf4-9f6e-3fa2a011ee44&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1739026439
+
+
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png",MONO29 Music Station
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/

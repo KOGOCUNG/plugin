@@ -1,15 +1,12 @@
  #EXTM3U
 
+#EXTINF:-1 group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="News",13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
+
+
 ########################################
 ❤️ช่องทีวีออนไลน์      ดิจิตอลทีวี
 ########################################
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://dookeela.live/uploads/1720429672.png",3BB Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/3bbsports1
-
-https://dookeela.live/live-tv/3bbsports1
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1021,6 +1018,10 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+
+
+
+
 
 ########################################
 🧡หนังใหม่-2025

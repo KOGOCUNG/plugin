@@ -6,6 +6,10 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/KvdFCD5.png",Boonniyom TV
 https://live.x2.co.th/live/bntv.m3u8
 
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://dookeela.live/uploads/1705536821.png",test
+#EXTVLCOPT:http-user-url=https://dookeela.live/live-tv/samrujlok
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 
 ########################################
 ❤️ช่องทีวีออนไลน์      ดิจิตอลทีวี

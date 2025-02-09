@@ -197,12 +197,6 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 ❤️ช่องทีวีออนไลน์      บันเทิง
 ########################################
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/3619/3619199.png",ช่องดูหนัง
-http://49.0.64.96:8007/PING
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
-http://49.0.64.96:8007/AMAZING
-
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono29 HD
 http://edge2-bkk.3bb.co.th:1935/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
 
@@ -319,9 +313,6 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 ########################################
 ❤️ช่องทีวีออนไลน์      เด็ก
 ########################################
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",ช่องการ์ตูน
-http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8

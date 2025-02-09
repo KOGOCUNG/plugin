@@ -197,19 +197,7 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 ❤️ช่องทีวีออนไลน์      บันเทิง
 ########################################
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/512x512/Horror.png",ช่องสยองขวัญ
-http://45.144.165.187:8080/playidtv1/12345/15672
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/3619/3619199.png",ช่องดูหนัง
-http://45.144.165.187:8080/playidtv1/12345/17788
-
-#EXTINF:-1 tvg-id=""group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cdn-icons-png.flaticon.com/512/6209/6209965.png",ช่องซีรี่ย์
-http://45.144.165.187:8080/playidtv1/12345/17239
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://images.vexels.com/media/users/3/335286/isolated/preview/4a29cb7795037382b13e482ec2894e68-enjoy-the-movie-logo.png",ENJOY THE MOVIE
-http://203.154.243.89:11001/izaa?m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",Blockbuster
 http://49.0.64.96:8007/PING
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
@@ -333,9 +321,6 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 ########################################
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",ช่องการ์ตูน
-http://45.144.165.187:8080/playidtv1/12345/11041
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRy5zMtiI9h3DfTwi1XvKfqsN1nJZeTS59ZFBVfG-UYrQekGbwX3EZ1b0Gp5qWr63lN6Q&usqp=CAU",TOONME
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang

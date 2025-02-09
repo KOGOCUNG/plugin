@@ -844,6 +844,90 @@ http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 🖤ช่องรายการต่างประเทศ
 ########################################
 
+#EXTINF:-1 tvg-id="ABS-CBN.News.Channel.sg" tvg-name="ABS-CBN" tvg-logo="https://i.imgur.com/Fo5yh4Q.png" group-title="Other",ABS-CBN
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium785/index.m3u8
+
+#EXTINF:-1 tvg-id="Al-Kass-4-1_AR.bein" tvg-name="Alkass Four" tvg-logo="https://i.imgur.com/1vkaePj.png" group-title="Other",Alkass Four
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium784/index.m3u8
+
+#EXTINF:-1 tvg-id="Al-Kass-1-1_AR.bein" tvg-name="Alkass One" tvg-logo="https://i.imgur.com/gv048uN.png" group-title="Other",Alkass One
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium781/index.m3u8
+
+#EXTINF:-1 tvg-id="Al-Kass-3-1_AR.bein" tvg-name="Alkass Three" tvg-logo="https://i.imgur.com/KHKtyiB.png" group-title="Other",Alkass Three
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium783/index.m3u8
+
+#EXTINF:-1 tvg-id="Al-Kass-2-1_AR.bein" tvg-name="Alkass Two" tvg-logo="https://i.imgur.com/ztLGACr.png" group-title="Other",Alkass Two
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium782/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DSTV kykNET & kie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Other",DSTV kykNET & kie
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium828/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DSTV M-Net" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Other",DSTV M-Net
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium827/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DSTV Mzansi Magic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Other",DSTV Mzansi Magic
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium786/index.m3u8
+
+#EXTINF:-1 tvg-id="Fashion.TV.fr" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/fashion-tv-int.png" group-title="Other",Fashion TV
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium744/index.m3u8
+
+#EXTINF:-1 tvg-id="FETV.(Family.Entertainment.Television).us" tvg-name="FETV - Family Entertainment Television" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fetv-us.png" group-title="Other",FETV - Family Entertainment Television
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium751/index.m3u8
+
+#EXTINF:-1 tvg-id="Fight.Network.Canada.ca" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/fight-network-ca.png" group-title="Other",Fight Network
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium757/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsNation.-.Eastern.Feed.us" tvg-name="Gol Mundial 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/news-nation-us.png" group-title="Other",Gol Mundial 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium292/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New! CWPIX 11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="Other",New! CWPIX 11
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium771/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-music-us.png" group-title="Other",Nick Music
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddh1.mizhls.ru/lb/premium666/index.m3u8
+
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" tvg-name="A&E",A&E
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -3033,821 +3117,901 @@ https://ddh1.mizhls.ru/lb/premium119/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium120/index.m3u8
+
 #EXTINF:-1 tvg-id="3sat(src01).de" tvg-name="3sat DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/3sat-hd-de.png" group-title="Germany",3sat DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium726/index.m3u8
+
 #EXTINF:-1 tvg-id="ARTE(src01).de" tvg-name="Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/arte-hd-de.png" group-title="Germany",Arte
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium725/index.m3u8
+
 #EXTINF:-1 tvg-id="BBC.One.de" tvg-name="BBC 1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="Germany",BBC 1 DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium727/index.m3u8
+
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/br-fernsehen-hd-de.png" group-title="Germany",BR Fernsehen
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium737/index.m3u8
+
 #EXTINF:-1 tvg-id="DAZN1(src01).de" tvg-name="DAZN 1 Bar DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn1-de.png" group-title="Germany",DAZN 1 Bar DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium426/index.m3u8
+
 #EXTINF:-1 tvg-id="DAZN2(src01).de" tvg-name="DAZN 2 Bar DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn2-de.png" group-title="Germany",DAZN 2 Bar DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium427/index.m3u8
+
 #EXTINF:-1 tvg-id="hrfernsehen(src01).de" tvg-name="HR Fernsehen DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/hr-hd-de.png" group-title="Germany",HR Fernsehen DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium740/index.m3u8
+
 #EXTINF:-1 tvg-id="kabeleins(src01).de" tvg-name="Kabel Eins (Kabel 1) DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/kabel-eins-hd-de.png" group-title="Germany",Kabel Eins (Kabel 1) DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium731/index.m3u8
+
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/mdr-hd-de.png" group-title="Germany",MDR DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium733/index.m3u8
+
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="NDR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/ndr-hd-de.png" group-title="Germany",NDR DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium736/index.m3u8
+
 #EXTINF:-1 tvg-id="ProSieben(src01).de" tvg-name="ProSieben (PRO7) DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/pro-sieben-hd-de.png" group-title="Germany",ProSieben (PRO7) DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium730/index.m3u8
+
 #EXTINF:-1 tvg-id="Sat1(src01).de" tvg-name="SAT.1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sat-1-de.png" group-title="Germany",SAT.1 DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium729/index.m3u8
+
 #EXTINF:-1 tvg-id="sixx(src01).de" tvg-name="Sixx DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sixx-de.png" group-title="Germany",Sixx DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium732/index.m3u8
+
 #EXTINF:-1 tvg-id="SPORT1(src01).de" tvg-name="Sport1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/sport1-hd-de.png" group-title="Germany",Sport1 DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium641/index.m3u8
+
 #EXTINF:-1 tvg-id="SPORT1plus(src01).de" tvg-name="Sport1+ DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/sport1-plus-hd-de.png" group-title="Germany",Sport1+ DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium640/index.m3u8
+
 #EXTINF:-1 tvg-id="SRFernsehen(src01).de" tvg-name="SR Fernsehen DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/sr-fernsehen-hd-de.png" group-title="Germany",SR Fernsehen DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium739/index.m3u8
+
 #EXTINF:-1 tvg-id="SuperRTL(src01).de" tvg-name="SUPER RTL DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/super-rtl-hd-de.png" group-title="Germany",SUPER RTL DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium738/index.m3u8
+
 #EXTINF:-1 tvg-id="SWRFernsehenBW(src01).de" tvg-name="SWR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/swr-hd-de.png" group-title="Germany",SWR DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium735/index.m3u8
+
 #EXTINF:-1 tvg-id="WDRFernsehen(src01).de" tvg-name="WDR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/wdr-hd-de.png" group-title="Germany",WDR DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium734/index.m3u8
+
 #EXTINF:-1 tvg-id="ZDF(src01).de" tvg-name="ZDF Info DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/zdf-info-hd-de.png" group-title="Germany",ZDF Info DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium728/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="Cosmote Sport 1 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png" group-title="Greece",Cosmote Sport 1 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium622/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-name="Cosmote Sport 2 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-2-gr.png" group-title="Greece",Cosmote Sport 2 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium623/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-name="Cosmote Sport 3 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-3-gr.png" group-title="Greece",Cosmote Sport 3 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium624/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-name="Cosmote Sport 4 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-4-gr.png" group-title="Greece",Cosmote Sport 4 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium625/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-name="Cosmote Sport 5 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-5-gr.png" group-title="Greece",Cosmote Sport 5 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium626/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-name="Cosmote Sport 6 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-6-gr.png" group-title="Greece",Cosmote Sport 6 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium627/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-name="Cosmote Sport 7 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-7-gr.png" group-title="Greece",Cosmote Sport 7 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium628/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-name="Cosmote Sport 8 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-8-gr.png" group-title="Greece",Cosmote Sport 8 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium629/index.m3u8
+
 #EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-name="Cosmote Sport 9 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="Greece",Cosmote Sport 9 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium630/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports1HD.gr" tvg-name="Nova Sports 1 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-1-gr.png" group-title="Greece",Nova Sports 1 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium631/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports2HD.gr" tvg-name="Nova Sports 2 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-2-gr.png" group-title="Greece",Nova Sports 2 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium632/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports3HD.gr" tvg-name="Nova Sports 3 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-3-gr.png" group-title="Greece",Nova Sports 3 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium633/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports4HD.gr" tvg-name="Nova Sports 4 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-4-gr.png" group-title="Greece",Nova Sports 4 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium634/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports5HD.gr" tvg-name="Nova Sports 5 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-5-gr.png" group-title="Greece",Nova Sports 5 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium635/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports6HD.gr" tvg-name="Nova Sports 6 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-6-gr.png" group-title="Greece",Nova Sports 6 Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium636/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports.News.HD.gr" tvg-name="Nova Sports News Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-news-gr.png" group-title="Greece",Nova Sports News Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium639/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports.Premier.League.HD.gr" tvg-name="Nova Sports Premier League Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="Greece",Nova Sports Premier League Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium599/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports.Prime.HD.gr" tvg-name="Nova Sports Prime Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="Greece",Nova Sports Prime Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium638/index.m3u8
+
 #EXTINF:-1 tvg-id="Novasports.Start.HD.gr" tvg-name="Nova Sports Start Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png" group-title="Greece",Nova Sports Start Greece
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium637/index.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ.10.שידור.חי.il" tvg-name="Channel 10 Israel" tvg-logo="https://i.imgur.com/SCGWVot.png" group-title="Israel",Channel 10 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium547/index.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ.11.כאן.שידור.חי.il" tvg-name="Channel 11 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel",Channel 11 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium548/index.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ.12.שידור.חי.il" tvg-name="Channel 12 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png" group-title="Israel",Channel 12 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium549/index.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ.13.שידור.חי.il" tvg-name="Channel 13 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png" group-title="Israel",Channel 13 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium551/index.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ.14.שידור.חי.il" tvg-name="Channel 14 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel14-il.png" group-title="Israel",Channel 14 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium552/index.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ.9.שידור.חי.il" tvg-name="Channel 9 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel9-il.png" group-title="Israel",Channel 9 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium546/index.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ.3.שידור.חי.il" tvg-name="HOT3 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot3-il.png" group-title="Israel",HOT3 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium553/index.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ.one.שידור.חי.il" tvg-name="ONE 1 HD Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one-il.png" group-title="Israel",ONE 1 HD Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium541/index.m3u8
+
 #EXTINF:-1 tvg-id="ONE2.HD.il" tvg-name="ONE 2 HD Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one2-il.png" group-title="Israel",ONE 2 HD Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium542/index.m3u8
+
 #EXTINF:-1 tvg-id="Sport.1.HD.il" tvg-name="Sport 1 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport1-il.png" group-title="Israel",Sport 1 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium140/index.m3u8
+
 #EXTINF:-1 tvg-id="Sport.2.HD.il" tvg-name="Sport 2 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport2-il.png" group-title="Israel",Sport 2 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium141/index.m3u8
+
 #EXTINF:-1 tvg-id="Sport.3.HD.il" tvg-name="Sport 3 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport3-il.png" group-title="Israel",Sport 3 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium142/index.m3u8
+
 #EXTINF:-1 tvg-id="Sport.4.HD.il" tvg-name="Sport 4 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport4-il.png" group-title="Israel",Sport 4 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium143/index.m3u8
+
 #EXTINF:-1 tvg-id="ספורט.5.גולד.il" tvg-name="Sport 5 Gold Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5gold-il.png" group-title="Israel",Sport 5 Gold Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium148/index.m3u8
+
 #EXTINF:-1 tvg-id="ספורט.5.שידור.חי.il" tvg-name="Sport 5 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5sport-il.png" group-title="Israel",Sport 5 Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium144/index.m3u8
+
 #EXTINF:-1 tvg-id="ספורט.5.לייב.il" tvg-name="Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5live-il.png" group-title="Israel",Sport 5 Live Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium146/index.m3u8
+
 #EXTINF:-1 tvg-id="ספורט.5.פלוס.il" tvg-name="Sport 5 PLUS Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5plus-il.png" group-title="Israel",Sport 5 PLUS Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium145/index.m3u8
+
 #EXTINF:-1 tvg-id="Sport.5.Stars.HD.(59).il" tvg-name="Sport 5 Star Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5stars-il.png" group-title="Israel",Sport 5 Star Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium147/index.m3u8
+
 #EXTINF:-1 tvg-id="yes.Movies.Action.il" tvg-name="Yes Movies Action Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-movies-action-il.png" group-title="Israel",Yes Movies Action Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium543/index.m3u8
+
 #EXTINF:-1 tvg-id="yes.Movies.Comedy.il" tvg-name="Yes Movies Comedy Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-tv-comedy-il.png" group-title="Israel",Yes Movies Comedy Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium545/index.m3u8
+
 #EXTINF:-1 tvg-id="yes.Movies.Kids.il" tvg-name="Yes Movies Kids Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-movies-kids-il.png" group-title="Israel",Yes Movies Kids Israel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium544/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20 Mediaset Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/20-it.png" group-title="Italy",20 Mediaset Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium857/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport2103073(src01).it" tvg-name="EuroSport 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-1-hd-nl.png" group-title="Italy",EuroSport 1 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium878/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport2211150(src01).it" tvg-name="EuroSport 2 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-2-hd-nl.png" group-title="Italy",EuroSport 2 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium879/index.m3u8
+
 #EXTINF:-1 tvg-id="Italia1(src01).it" tvg-name="Italia 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia1-it.png" group-title="Italy",Italia 1 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium854/index.m3u8
+
 #EXTINF:-1 tvg-id="La7(src01).it" tvg-name="La7 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy",La7 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium855/index.m3u8
+
 #EXTINF:-1 tvg-id="La7d(src01).it" tvg-name="LA7d HD+ Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png" group-title="Italy",LA7d HD+ Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium856/index.m3u8
+
 #EXTINF:-1 tvg-id="Rai1(src01).it" tvg-name="Rai 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy",Rai 1 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium850/index.m3u8
+
 #EXTINF:-1 tvg-id="Rai2(src01).it" tvg-name="Rai 2 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Italy",Rai 2 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium851/index.m3u8
+
 #EXTINF:-1 tvg-id="Rai3(src01).it" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy",Rai 3 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium852/index.m3u8
+
 #EXTINF:-1 tvg-id="Rai3(src01).it" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy",Rai 3 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium853/index.m3u8
+
 #EXTINF:-1 tvg-id="RaiPremium(src01).it" tvg-name="Rai Premium Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy",Rai Premium Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium858/index.m3u8
+
 #EXTINF:-1 tvg-id="RaiSport(src01).it" tvg-name="Rai Sport Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Italy",Rai Sport Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium882/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 1 (251) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 1 (251) Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium871/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 2 (252) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 2 (252) Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium872/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 3 (253) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 3 (253) Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium873/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 4 (254) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 4 (254) Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium874/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 5 (255) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 5 (255) Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium875/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 6 (256) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 6 (256) Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium876/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 7 (257) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 7 (257) Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium877/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaAction(src01).it" tvg-name="Sky Cinema Action Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-action-it.png" group-title="Italy",Sky Cinema Action Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium861/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaCollection(src01).it" tvg-name="Sky Cinema Collection Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-collection-it.png" group-title="Italy",Sky Cinema Collection Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium859/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaComedy(src01).it" tvg-name="Sky Cinema Comedy Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-comedy-it.png" group-title="Italy",Sky Cinema Comedy Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium862/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaDrama(src01).it" tvg-name="Sky Cinema Drama Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-drama-it.png" group-title="Italy",Sky Cinema Drama Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium867/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaDueplus24(src01).it" tvg-name="Sky Cinema Due +24 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Italy",Sky Cinema Due +24 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium866/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaFamily(src01).it" tvg-name="Sky Cinema Family Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-family-it.png" group-title="Italy",Sky Cinema Family Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium865/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaRomance(src01).it" tvg-name="Sky Cinema Romance Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-romance-it.png" group-title="Italy",Sky Cinema Romance Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium864/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaSuspense(src01).it" tvg-name="Sky Cinema Suspense Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-suspense-it.png" group-title="Italy",Sky Cinema Suspense Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium868/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaUnoplus24(src01).it" tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Italy",Sky Cinema Uno +24 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium863/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyCinemaUno(src01).it" tvg-name="Sky Cinema Uno Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Uno Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium860/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySerie(src01).it" tvg-name="Sky Serie Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-serie-it.png" group-title="Italy",Sky Serie Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium880/index.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sport24.it" tvg-name="Sky Sport 24 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-24-it.png" group-title="Italy",Sky Sport 24 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium869/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportArena(src01).it" tvg-name="Sky Sport Arena Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-arena-it.png" group-title="Italy",Sky Sport Arena Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium462/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportCalcio(src01).it" tvg-name="Sky Sport Calcio Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Sport Calcio Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium870/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportF1207478(src01).it" tvg-name="Sky Sport F1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium577/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Football Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-football-it.png" group-title="Italy",Sky Sport Football Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium460/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportMotoGP(src01).it" tvg-name="Sky Sport MotoGPv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGPv
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium575/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportTennis205559(src01).it" tvg-name="Sky Sport Tennis Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="Italy",Sky Sport Tennis Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium576/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportUno(src01).it" tvg-name="Sky Sport UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport UNO Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium461/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportGolf206768(src01).it" tvg-name="Sky Sports Golf Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-golf-it.png" group-title="Italy",Sky Sports Golf Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium574/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyUno(src01).it" tvg-name="Sky UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Italy",Sky UNO Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium881/index.m3u8
+
 #EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-name="Astro Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-cricket-my.png" group-title="Malaysia",Astro Cricket
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium370/index.m3u8
+
 #EXTINF:-1 tvg-id="Astro.Football.my" tvg-name="Astro Football" tvg-logo="https://i.imgur.com/TSZQTXI.png" group-title="Malaysia",Astro Football
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium124/index.m3u8
+
 #EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-name="Astro Grandstand" tvg-logo="https://i.imgur.com/TpbKKEh.png" group-title="Malaysia",Astro Grandstand
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium123/index.m3u8
+
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png" group-title="Malaysia",Astro SuperSport 3
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium125/index.m3u8
+
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png" group-title="Malaysia",Astro SuperSport 4
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium126/index.m3u8
+
 #EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-premium-mx.png" group-title="Mexico",Fox Sports Premium MX
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium830/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="Middle East",beIN Sports MENA 1
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium91/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="Middle East",beIN Sports MENA 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium92/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="Middle East",beIN Sports MENA 3
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium93/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="Middle East",beIN Sports MENA 4
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium94/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="Middle East",beIN Sports MENA 5
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium95/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS6_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="Middle East",beIN Sports MENA 6
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium96/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_Mono_AR.bein" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="Middle East",beIN Sports MENA 7
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium97/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-english-mea.png" group-title="Middle East",beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium61/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS2_ENGLISH_Digital_Mono_EN.bein" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-english-mea.png" group-title="Middle East",beIN Sports MENA English 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium90/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA English 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-english-mea.png" group-title="Middle East",beIN Sports MENA English 3
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium46/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-premium-mea.png" group-title="Middle East",beIN Sports MENA Premium 1
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium98/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-premium-mea.png" group-title="Middle East",beIN Sports MENA Premium 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium99/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX3_DIGITAL_Mono_EN.bein" tvg-name="beIN Sports MENA Premium 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-premium-mea.png" group-title="Middle East",beIN Sports MENA Premium 3
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium100/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN(src01).nl" tvg-name="ESPN 1 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-nl.png" group-title="Netherlands",ESPN 1 Netherland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium379/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN2(src01).nl" tvg-name="ESPN 2 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-2-nl.png" group-title="Netherlands",ESPN 2 Netherland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium386/index.m3u8
+
 #EXTINF:-1 tvg-id="RTL7(src01).nl" tvg-name="RTL7 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/rtl7-nl.png" group-title="Netherlands",RTL7 Netherland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium390/index.m3u8
+
 #EXTINF:-1 tvg-id="Veronica.nl" tvg-name="Veronica Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/veronica-nl.png" group-title="Netherlands",Veronica Netherland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium378/index.m3u8
+
 #EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="Ziggo Sport 4 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-4-nl.png" group-title="Netherlands",Ziggo Sport 4 Netherland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium396/index.m3u8
+
 #EXTINF:-1 tvg-id="Ziggo.Sport.5.nl" tvg-name="Ziggo Sport 5 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-5-nl.png" group-title="Netherlands",Ziggo Sport 5 Netherland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium383/index.m3u8
+
 #EXTINF:-1 tvg-id="ZiggoSport1Select(src01).nl" tvg-name="Ziggo Sport Select NL Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-nl.png" group-title="Netherlands",Ziggo Sport Select NL Netherland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium393/index.m3u8
+
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport Voetbal Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="Netherlands",Ziggo Sport Voetbal Netherland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium398/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="Sky Sport 1 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-1-nz.png" group-title="New Zealand",Sky Sport 1 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium588/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="Sky Sport 2 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-2-nz.png" group-title="New Zealand",Sky Sport 2 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium589/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="Sky Sport 3 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-3-nz.png" group-title="New Zealand",Sky Sport 3 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium590/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="Sky Sport 4 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-4-nz.png" group-title="New Zealand",Sky Sport 4 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium591/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="Sky Sport 5 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-5-nz.png" group-title="New Zealand",Sky Sport 5 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium592/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="Sky Sport 6 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-6-nz.png" group-title="New Zealand",Sky Sport 6 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium593/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="Sky Sport 7 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-7-nz.png" group-title="New Zealand",Sky Sport 7 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium594/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport 8 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-8-nz.png" group-title="New Zealand",Sky Sport 8 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium595/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.9.nz" tvg-name="Sky Sport 9 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-9-nz.png" group-title="New Zealand",Sky Sport 9 NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium596/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.Select.nz" tvg-name="Sky Sport Select NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-select-nz.png" group-title="New Zealand",Sky Sport Select NZ
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium587/index.m3u8
-#EXTINF:-1 tvg-id="ABS-CBN.News.Channel.sg" tvg-name="ABS-CBN" tvg-logo="https://i.imgur.com/Fo5yh4Q.png" group-title="Other",ABS-CBN
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium785/index.m3u8
-#EXTINF:-1 tvg-id="Al-Kass-4-1_AR.bein" tvg-name="Alkass Four" tvg-logo="https://i.imgur.com/1vkaePj.png" group-title="Other",Alkass Four
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium784/index.m3u8
-#EXTINF:-1 tvg-id="Al-Kass-1-1_AR.bein" tvg-name="Alkass One" tvg-logo="https://i.imgur.com/gv048uN.png" group-title="Other",Alkass One
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium781/index.m3u8
-#EXTINF:-1 tvg-id="Al-Kass-3-1_AR.bein" tvg-name="Alkass Three" tvg-logo="https://i.imgur.com/KHKtyiB.png" group-title="Other",Alkass Three
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium783/index.m3u8
-#EXTINF:-1 tvg-id="Al-Kass-2-1_AR.bein" tvg-name="Alkass Two" tvg-logo="https://i.imgur.com/ztLGACr.png" group-title="Other",Alkass Two
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium782/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 BiH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="Other",Arena Sport 1 BiH
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium579/index.m3u8
+
 #EXTINF:-1 tvg-id="Arena.sport.1.cz" tvg-name="Arena Sport 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-1-premium-rs.png" group-title="Other",Arena Sport 1 Premium
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium134/index.m3u8
+
 #EXTINF:-1 tvg-id="Arena.sport.2.cz" tvg-name="Arena Sport 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-2-premium-rs.png" group-title="Other",Arena Sport 2 Premium
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium135/index.m3u8
+
 #EXTINF:-1 tvg-id="Arena.sport.3.cz" tvg-name="Arena Sport 3 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-3-premium-rs.png" group-title="Other",Arena Sport 3 Premium
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium139/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DSTV kykNET & kie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Other",DSTV kykNET & kie
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium828/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DSTV M-Net" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Other",DSTV M-Net
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium827/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DSTV Mzansi Magic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Other",DSTV Mzansi Magic
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium786/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN SUR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="Other",ESPN SUR
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium149/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2 SUR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="Other",ESPN2 SUR
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium150/index.m3u8
-#EXTINF:-1 tvg-id="Fashion.TV.fr" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/fashion-tv-int.png" group-title="Other",Fashion TV
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium744/index.m3u8
-#EXTINF:-1 tvg-id="FETV.(Family.Entertainment.Television).us" tvg-name="FETV - Family Entertainment Television" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fetv-us.png" group-title="Other",FETV - Family Entertainment Television
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium751/index.m3u8
-#EXTINF:-1 tvg-id="Fight.Network.Canada.ca" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/fight-network-ca.png" group-title="Other",Fight Network
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium757/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation.-.Eastern.Feed.us" tvg-name="Gol Mundial 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/news-nation-us.png" group-title="Other",Gol Mundial 1
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium292/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New! CWPIX 11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="Other",New! CWPIX 11
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium771/index.m3u8
-#EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-music-us.png" group-title="Other",Nick Music
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddh1.mizhls.ru/lb/premium666/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OnTime Sports" tvg-logo="https://i.imgur.com/fUE3iHJ.png" group-title="Other",OnTime Sports
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium611/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OnTime Sports 2" tvg-logo="https://i.imgur.com/fUE3iHJ.png" group-title="Other",OnTime Sports 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium612/index.m3u8
+
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/3gcbW9w.png" group-title="Other",PTV Sports
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium450/index.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/sky-sport-austria-1-hd-at.png" group-title="Other",Sky Sport Austria 1 HD
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium559/index.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.1.de" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/hd/sky-sport-bundesliga-1-hd-de.png" group-title="Other",Sky Sport Bundesliga 1 HD
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium558/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="Other",Smithsonian Channel
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium601/index.m3u8
+
 #EXTINF:-1 tvg-id="SPORTDIGITAL.FUSSBALL.ch" tvg-name="SportDigital Fussball" tvg-logo="https://i.imgur.com/DTdXnCD.png" group-title="Other",SportDigital Fussball
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -3889,176 +4053,211 @@ https://ddh1.mizhls.ru/lb/premium618/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium619/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="Other",SSC Sport Extra 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium620/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="Other",SSC Sport Extra 3
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium621/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports PK" tvg-logo="https://i.imgur.com/WIchS6G.png" group-title="Other",Ten Sports PK
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium741/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.(TNTS3).cl" tvg-name="TNT Sports HD Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Other",TNT Sports HD Chile
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium642/index.m3u8
+
 #EXTINF:-1 tvg-id="TVNZ.2.nz" tvg-name="TV2 Zulu" tvg-logo="https://i.imgur.com/52snpw5.png" group-title="Other",TV2 Zulu
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium818/index.m3u8
+
 #EXTINF:-1 tvg-id="TVA.Sports.ca" tvg-name="TVA Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png" group-title="Other",TVA Sports
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium833/index.m3u8
+
 #EXTINF:-1 tvg-id="TVA.Sports.2.ca" tvg-name="TVA Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png" group-title="Other",TVA Sports 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium834/index.m3u8
+
 #EXTINF:-1 tvg-id="TVP.Info.pl" tvg-name="TVP INFO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" group-title="Other",TVP INFO
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium452/index.m3u8
+
 #EXTINF:-1 tvg-id="V.Film.Family.se" tvg-name="V Film Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/v-film-family-dk.png" group-title="Other",V Film Family
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium816/index.m3u8
+
 #EXTINF:-1 tvg-id="V.Film.Premiere.se" tvg-name="V Film Premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/v-film-premiere-dk.png" group-title="Other",V Film Premiere
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium815/index.m3u8
+
 #EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-name="VTV+ Uruguay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/vtv-id.png" group-title="Other",VTV+ Uruguay
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium391/index.m3u8
+
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="Win Sports+ Columbia" tvg-logo="https://i.imgur.com/wLTqT4Q.png" group-title="Other",Win Sports+ Columbia
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium392/index.m3u8
+
 #EXTINF:-1 tvg-id="CANAL+.Family.pl" tvg-name="Canal+ Family Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/hd/canal-plus-family-hd-fr.png" group-title="Poland",Canal+ Family Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium567/index.m3u8
+
 #EXTINF:-1 tvg-id="CANAL+.PREMIUM.pl" tvg-name="Canal+ Premium Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" group-title="Poland",Canal+ Premium Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium566/index.m3u8
+
 #EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-name="Canal+ Seriale Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-seriale-pl.png" group-title="Poland",Canal+ Seriale Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium570/index.m3u8
+
 #EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-name="Canal+ Sport 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" group-title="Poland",Canal+ Sport 2 Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium73/index.m3u8
+
 #EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" tvg-name="CANAL+ SPORT 5 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" group-title="Poland",CANAL+ SPORT 5 Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium75/index.m3u8
+
 #EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-name="Canal+ Sport Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" group-title="Poland",Canal+ Sport Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium48/index.m3u8
+
 #EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-title="Poland",Eleven Sports 1 Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium71/index.m3u8
+
 #EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-title="Poland",Eleven Sports 2 Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium72/index.m3u8
+
 #EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-3-int.png" group-title="Poland",Eleven Sports 3 Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium428/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport.1.pl" tvg-name="EuroSport 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-1-hd-nl.png" group-title="Poland",EuroSport 1 Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium57/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport.2.pl" tvg-name="EuroSport 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-2-hd-nl.png" group-title="Poland",EuroSport 2 Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium58/index.m3u8
+
 #EXTINF:-1 tvg-id="FilmBox.Premium.HD.pl" tvg-name="FilmBox Premium Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/filmbox-premium-pl.png" group-title="Poland",FilmBox Premium Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium568/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/hbo-pl.png" group-title="Poland",HBO Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium569/index.m3u8
+
 #EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="Motowizja Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/motowizja-pl.png" group-title="Poland",Motowizja Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium563/index.m3u8
+
 #EXTINF:-1 tvg-id="Polsat.Film.pl" tvg-name="Polsat Film Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-film-pl.png" group-title="Poland",Polsat Film Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium564/index.m3u8
+
 #EXTINF:-1 tvg-id="Polsat.News.pl" tvg-name="Polsat News Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-news-pl.png" group-title="Poland",Polsat News Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium443/index.m3u8
+
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png" group-title="Poland",Polsat Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium562/index.m3u8
+
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-name="Polsat Sport Extra Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-extra-pl.png" group-title="Poland",Polsat Sport Extra Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium50/index.m3u8
+
 #EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" tvg-name="Polsat Sport News Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-news-pl.png" group-title="Poland",Polsat Sport News Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium129/index.m3u8
+
 #EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-name="Polsat Sport Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-pl.png" group-title="Poland",Polsat Sport Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium47/index.m3u8
+
 #EXTINF:-1 tvg-id="TVN.HD.pl" tvg-name="TVN HD Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/tvn-hk.png" group-title="Poland",TVN HD Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium565/index.m3u8
+
 #EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN24 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn24-pl.png" group-title="Poland",TVN24 Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh1.mizhls.ru/lb/premium444/index.m3u8
+
 #EXTINF:-1 tvg-id="TVP.Sport.pl" tvg-name="TVP Sport Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-sport-pl.png" group-title="Poland",TVP Sport Poland
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz

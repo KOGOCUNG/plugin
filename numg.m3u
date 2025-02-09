@@ -348,6 +348,13 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://img2.pic.in.th/pic/445cf13921c3cc0b043e591a01f3c575.png",KPOP
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg",Mad World
+https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/JWFOYuD.png",Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
+
 ########################################
 ❤️ช่องทีวีออนไลน์      เด็ก
 ########################################

@@ -339,8 +339,8 @@ https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png",MV LAO
 https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media.info/l/f/1/1482.1508556245.png",MTV LIVE
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MaharTV.mm" tvg-logo="https://i.imgur.com/ig0QECf.png" group-title="Undefined",Mahar TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg",Mad World
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8

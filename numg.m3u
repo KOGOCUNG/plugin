@@ -313,6 +313,23 @@ https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media.info/l/f/1/1482.1508556245.png",MTV LIVE
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/4TMtUjW.png",Zabb Channel
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/Z9vxti4.png",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/GhboFGt.png",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/pnbzE2V.png",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+
+
+
 ########################################
 ❤️ช่องทีวีออนไลน์      เด็ก
 ########################################

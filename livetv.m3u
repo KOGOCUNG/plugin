@@ -195,7 +195,6 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧡ช่องสอนออนไลน์" tvg-logo="https://i.imgur.com/L3T2QZz.png",STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
-
 ########################################
 💛ช่องบันเทิง
 ########################################
@@ -348,6 +347,9 @@ https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="💛ช่องบันเทิง"tvg-logo="https://i.imgur.com/JWFOYuD.png",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="💛ช่องบันเทิง" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
 ########################################
 💚ช่องรายการเด็ก
 ########################################
@@ -402,9 +404,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="💚ช่องรายการเด็ก" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="💚ช่องรายการเด็ก" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 ########################################
 💙ช่องข่าว

@@ -1,24 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="การ์ตูน"  tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-spark-jum.png",Trueparkjump
-http://uhdtv.one:2095/live/Jh67lk78frs/Tgf67yhK8790/115529.m3u8
-#EXTINF:-1  group-title="การ์ตูน"  tvg-logo="",Trueparkplay
-http://uhdtv.one:2095/live/Jh67lk78frs/Tgf67yhK8790/115784.m3u8
-#EXTINF:-1  group-title="การ์ตูน" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3514263_ico.png",True Cartoon Network
-http://uhdtv.one:2095/live/Jh67lk78frs/Tgf67yhK8790/115324.m3u8
-#EXTINF:-1  group-title="การ์ตูน" tvg-logo="N/A",True Dreamwork
-http://uhdtv.one:2095/live/Jh67lk78frs/Tgf67yhK8790/115691.m3u8
-#EXTINF:-1  group-title="การ์ตูน"  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3515658_ico.png",True Disney JR
-http://uhdtv.one:2095/live/Jh67lk78frs/Tgf67yhK8790/115654.m3u8
-#EXTINF:-1  group-title="การ์ตูน"  tvg-logo="https://image.roku.com/developer_channels/prod/48914b161eb8786b242fc3c43298c4ccd04197d9766a0c2ee6df21f5e5f15e19.png",LEGO
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="การ์ตูน"  tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-104220.jpg",ANIMAX
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-#EXTINF:-1  group-title="การ์ตูน"  tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-105212.jpg",ANIPLUS
-http://45.126.83.51/dr9445/h/h02/01.m3u8
-
-
-
 ########################################
 ❤️ช่องทีวีออนไลน์      ช่องดิจิตอล
 ########################################
@@ -27,8 +8,8 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
-https://github.com/bestcommt2/iptv/blob/master/true%20wild.m3u8
-https://github.com/bestcommt2/m3u8/blob/master/tlc.m3u8
+https://github.com/bestcommt2/iptv/raw/refs/heads/master/true%20wild.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/tlc.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png",THAI PBS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

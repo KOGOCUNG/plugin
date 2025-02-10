@@ -404,6 +404,9 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
 ########################################
 ❤️ช่องทีวีออนไลน์      ข่าว
 ########################################
@@ -459,9 +462,6 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",DISCOVER
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8

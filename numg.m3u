@@ -245,9 +245,6 @@ http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southe
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",TRUE Lifetime
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 
-
-
-
 ########################################
 ❤️ช่องทีวีออนไลน์      ช่องเพลง
 ########################################
@@ -811,7 +808,7 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="http://www.onlinethailand.net/tv_online/images/hi-sport.jpg",HiSports HD
 http://203.154.243.89:11001/hisport?m3u8
 
-#EXTINF:-1tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/WWE.png",WWE
+#EXTINF:-1tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/150px-WWE_official_logo.svg.png",WWE
 http://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports140.jpg",Fight Sport

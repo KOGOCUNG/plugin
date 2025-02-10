@@ -1,7 +1,7 @@
 #EXTM3U
 
 ########################################
-❤️ช่องทีวีออนไลน์      ดิจิตอลทีวี   ช่องดิจิตอล
+❤️ช่องทีวีออนไลน์      ช่องดิจิตอล
 ########################################
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
@@ -126,78 +126,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 ########################################
-❤️ช่องทีวีออนไลน์      สอน   ช่องการเรียนการสอน
-########################################
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV1.png",DLTV01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV2.png",DLTV02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV3.png",DLTV03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV4.png",DLTV04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV5.png",DLTV05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV6.png",DLTV06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV7.png",DLTV07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV8.png",DLTV08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV9.png",DLTV09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV10.png",DLTV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV11.png",DLTV11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV12.png",DLTV12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV13.png",DLTV13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV14.png",DLTV14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV15.png",DLTV15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv15.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/L3T2QZz.png",STOU Channel
-https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-
-
-########################################
-❤️ช่องทีวีออนไลน์      ช่องบันเทิงทีวีออนไลน์
+❤️ช่องทีวีออนไลน์      ช่องบันเทิง
 ########################################
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono29 HD
@@ -296,18 +225,6 @@ https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/pnbzE2V.png",Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/q6cQzbv.png",Lao-Thai TV
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/ohbRT05.png",Lao Net TV
-https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/fs3dQ6J.png",LS TV
-https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/33_x_bMhkve5VyzXn2DTam83pIoHBNd9R41Jj.png",MV LAO TV
 https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 
@@ -338,6 +255,35 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+
+########################################
+❤️ช่องทีวีออนไลน์      ช่องข่าว
+########################################
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU",มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/GhboFGt.png",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",Siamnews
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",Thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/YATEEM_TV.png",YATEEM TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/hc5a1YP.png",FOX News Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/6AGKP0A.png",Suwannabhumi Channel
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
 ########################################
 ❤️ช่องทีวีออนไลน์     ช่องบันเทิงเด็ก
@@ -395,35 +341,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 
 ########################################
-❤️ช่องทีวีออนไลน์      ข่าว
-########################################
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU",มวลชนทีวี
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/GhboFGt.png",Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",Siamnews
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",Thainews
-https://live.thaitvstream.com/play/thainews/index.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
-https://server1.streamssl.com/stream/news1_mid.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/YATEEM_TV.png",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/hc5a1YP.png",FOX News Now
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/6AGKP0A.png",Suwannabhumi Channel
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-
-########################################
 ❤️ช่องทีวีออนไลน์         ช่องสารคดี
 ########################################
 
@@ -458,6 +375,13 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+
+########################################
+❤️ช่องทีวีออนไลน์         ช่องธรรมะ
+########################################
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
 ########################################
 ❤️ช่องทีวีออนไลน์      ช่องกีฬาทั่วไป
@@ -822,6 +746,78 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+
+
+########################################
+❤️ช่องทีวีออนไลน์      สอน   ช่องการเรียนการสอน
+########################################
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV1.png",DLTV01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV2.png",DLTV02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV3.png",DLTV03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV4.png",DLTV04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV5.png",DLTV05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV6.png",DLTV06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV7.png",DLTV07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV8.png",DLTV08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV9.png",DLTV09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV10.png",DLTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV11.png",DLTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV12.png",DLTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV13.png",DLTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV14.png",DLTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV15.png",DLTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/L3T2QZz.png",STOU Channel
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+
 
 
 ########################################

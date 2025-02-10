@@ -269,9 +269,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp",True Crime+Investigation
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",BBCLifestyle
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",True AXN
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
 
@@ -311,20 +308,11 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/ohbRT05.png",Lao Net TV
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/u4ynifa.png",Laos Planet TV
-https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/fs3dQ6J.png",LS TV
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/NwxXABV.png",Vati Lao TV
-https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png",MV LAO
 https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/ig0QECf.png",Mahar TV
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/SdB3Vyr.jpg",Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
@@ -348,7 +336,7 @@ https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/JWFOYuD.png",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cble Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 ########################################

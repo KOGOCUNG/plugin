@@ -351,7 +351,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186591&extension=m3u8
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesparkplay.m3u8
 
 ########################################
 ❤️ช่องทีวีออนไลน์         ช่องสารคดี
@@ -405,7 +405,7 @@ http://moviektu.com/key/live/digital/Realitychannel-HD/k.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/KvdFCD5.png",บุญนิยมทีวี
 http://live.boonniyom.tv/live/bntvhd.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/SBBTV.png",SBB TV
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947",SBB TV
 http://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png", GBN

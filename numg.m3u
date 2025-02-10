@@ -223,7 +223,6 @@ https://ramach.ddns.net/live/ramalive/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/33_x_bMhkve5VyzXn2DTam83pIoHBNd9R41Jj.png",MV LAO TV
 https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/eT7iE34.png",Look Thoong TV
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunklist.m3u8
 
@@ -234,12 +233,17 @@ https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
 #EXTINF:1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/cpNg9Fy.png",อีสานทีวี
 https://psiiptv-b.sky-cdn.com/ttd20-playlist/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cble Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png",VIPA
+http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",TRUE Lifetime
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 
 ########################################
 ❤️ช่องทีวีออนไลน์      ช่องเพลง
@@ -295,9 +299,6 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 ❤️ช่องทีวีออนไลน์     ช่องบันเทิงเด็ก
 ########################################
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
-https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
@@ -318,6 +319,12 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🍄ช่องสำหรับเด็ก" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png",MoonBug
+http://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/350?cb=20180730143228",ANIMAX
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
@@ -327,7 +334,7 @@ http://us.gbnus.com/live/dhamma_high/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Cartoon-Mr.-Bean-PNG-Free-Download.png",Mr. Bean Cartoon
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.postimg.cc/yWqNWZf5/Mr-Bean.png",Mr. Bean Cartoon
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png",HBO Hits
@@ -388,6 +395,18 @@ https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+#EXTINF:-1 group-title="🍄ช่องสำหรับเด็ก" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/TPPY.png" , ทรูปลูกปัญญา
+http://moviektu.com/key/live/digital/Trueplookpanya/k.m3u8
+
+#EXTINF:-1 group-title="🍄ช่องสำหรับเด็ก" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/Child.png" , สามเณรปลูกปัญญา
+http://moviektu.com/key/live/digital/Realitychannel-HD/k.m3u8
+
+#EXTINF:-1 group-title="🍄ช่องสำหรับเด็ก" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/splash.png" , บุญนิยมทีวี
+http://live.boonniyom.tv/live/bntvhd.m3u8
+
+#EXTINF:-1 group-title="🍄ช่องสำหรับเด็ก" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/SBBTV.png" , SBB TV
+http://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist.m3u8
 
 ########################################
 ❤️ช่องทีวีออนไลน์      ช่องกีฬาทั่วไป

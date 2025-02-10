@@ -308,8 +308,8 @@ https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/fs3dQ6J.png",LS TV
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png",MV LAO
-https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกลุ่ม MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/33_x_bMhkve5VyzXn2DTam83pIoHBNd9R41Jj.png",,MV LAO TV
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/SdB3Vyr.jpg",Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8

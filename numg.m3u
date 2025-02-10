@@ -804,15 +804,11 @@ https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",TRUE Golf Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",TRUE Tennis
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="http://www.onlinethailand.net/tv_online/images/hi-sport.jpg",HiSports HD
 http://203.154.243.89:11001/hisport?m3u8
-
-#EXTINF:-1tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/150px-WWE_official_logo.svg.png",WWE
-http://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports140.jpg",Fight Sport
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
@@ -862,8 +858,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-
-
 
 
 

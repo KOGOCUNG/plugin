@@ -285,7 +285,7 @@ https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="💛ช่องบันเทิง"tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59-768x512.png",Cool Channel
 https://live.cool-channel.com:443/cool/live-720P.m3u8
-l
+
 #EXTINF:-1 tvg-id="" group-title="💛ช่องบันเทิง"tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_AsYJg1i26HkGRt0TjIE4CdhwMq7mconP.jpg",ลิโด้ Channel
 https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
 
@@ -436,6 +436,9 @@ https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="💙ช่องข่าว" tvg-logo="https://i.imgur.com/hc5a1YP.png",FOX News Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="💙ช่องข่าว" tvg-logo="https://i.imgur.com/6AGKP0A.png",Suwannabhumi Channel
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
 ########################################
 💜ช่องสารคดี

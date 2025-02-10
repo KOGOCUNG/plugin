@@ -299,9 +299,6 @@ https://ramach.ddns.net/live/ramalive/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/4TMtUjW.png",Zabb Channel
-https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/q6cQzbv.png",Lao-Thai TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/chunklist.m3u8
 

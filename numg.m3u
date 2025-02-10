@@ -322,7 +322,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🍄ช่องสำหรับเด็ก" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png",MoonBug
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png",MoonBug
 http://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/350?cb=20180730143228",ANIMAX

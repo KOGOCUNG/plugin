@@ -8,8 +8,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
-https://github.com/bestcommt2/iptv/raw/refs/heads/master/true%20wild.m3u8
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/tlc.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png",THAI PBS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

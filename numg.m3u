@@ -395,7 +395,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 #EXTINF:-1  tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
-
 ########################################
 🤎ช่องธรรมะ
 ########################################
@@ -529,7 +528,7 @@ https://cdn1.googlecdn.live/4k/epl4/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/epl5/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SportHD 1
+#EXTINFvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SportHD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
@@ -840,8 +839,20 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 
+
 ########################################
-🧡หนังใหม่-2025
+♈ช่องซับไทย
+########################################
+
+
+
+
+
+
+
+
+########################################
+♉♊♋♌♍♎♏♐♑♒♓⛎♀️♂️⚧️⭕❌🚫🅰️🆎🅱️🅾️🆑🆘🛑⛔📛หนังใหม่-2025
 ########################################
 
 #EXTINF:-1 tvg-id="" group-title="🧡หนังใหม่-2025" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย-187x269.png",คาเลนดาร์คิลเลอร์ วันสั่งตาย (2025)

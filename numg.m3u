@@ -357,9 +357,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://streamamg-fa.akamaiz.com/dookeela/truesparkplay/chunks.m3u8?nimblesessionid=24720653&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDU6MDY6MTkgQU0maGFzaF92YWx1ZT1UWGEwMzJhQXhyVjZrZjRseHQxQWNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9Y2YwMjIzYjlmZDU2MjNlMjc0NTk4OTk4OWFmYjVmNzMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesparkplay.m3u8
 
 ########################################
 💜ช่องสารคดี
@@ -387,7 +385,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์"   tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8

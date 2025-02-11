@@ -244,21 +244,10 @@ http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southe
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",TRUE Lifetime
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",ROCK Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goal-th.com/ช่องรายการทีวี/?id=402&tv=ROCKAction
-
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/rock-action/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",ROCK ENTERTAINMENT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goal-th.com/
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/rock-entertainment/
-
-#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="", Asian Food Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.141
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ASIANFOODCHANNE.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 
 
 ########################################
@@ -366,10 +355,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",TRUE DreamWorks 
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goal-th.com/
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/truesparkplay/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDk6NDE6MzQgQU0maGFzaF92YWx1ZT1VSkxwU1dJd2ErVnpWY0lUVTN0Q3JnPT0mdmFsaWRtaW51dGVzPTIw
 
 ########################################
 💜ช่องสารคดี
@@ -410,15 +395,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 #EXTINF:-1  tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goal-th.com/
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/animal-planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDk6MzQ6NDUgQU0maGFzaF92YWx1ZT1NUXc2VXVVSHlCSUNQTnNTbGVFR1F3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",สำรวจโลก
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goal-th.com/
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/samrujlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDk6MTQ6NTYgQU0maGFzaF92YWx1ZT1qRUIyQUl5czZxR3lJUFNyM28vaVR3PT0mdmFsaWRtaW51dGVzPTIw
 
 ########################################
 🤎ช่องธรรมะ
@@ -627,7 +603,6 @@ https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/asian-winter-games-1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/902/902.mpd
-
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_3.png",ASIAN WINTER GAMES CH3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -869,8 +844,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-
-
 
 ########################################
 🧡หนังใหม่-2025

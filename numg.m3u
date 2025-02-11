@@ -1,19 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",ROCK Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://streamamg-fa.akamaiz.com/dookeela/rock-action/chunks.m3u8?nimblesessionid=24710761&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDQ6MTI6NDEgQU0maGFzaF92YWx1ZT12VmYwdS83NGVyeVZXQXRJUmRSMkR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9Y2YwMjIzYjlmZDU2MjNlMjc0NTk4OTk4OWFmYjVmNzMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",สำรวจโลก
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://streamamg-fa.akamaiz.com/dookeela/samrujlok/chunks.m3u8?nimblesessionid=24715285&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDQ6MzQ6MDkgQU0maGFzaF92YWx1ZT1oRlhiR2dmRWpBM25RaGIrV3FOU2dnPT0mdmFsaWRtaW51dGVzPTEmaWQ9Y2YwMjIzYjlmZDU2MjNlMjc0NTk4OTk4OWFmYjVmNzMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
-
-
-
 ########################################
-❤️ช่องทีวีออนไลน์      ช่องดิจิตอล
+❤️ช่องดิจิตอล
 ########################################
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
@@ -138,7 +126,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 ########################################
-❤️ช่องทีวีออนไลน์      ช่องบันเทิง
+🧡ช่องบันเทิง
 ########################################
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่องมังกร
@@ -257,8 +245,13 @@ http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southe
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",TRUE Lifetime
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",ROCK Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://streamamg-fa.akamaiz.com/dookeela/rock-action/chunks.m3u8?nimblesessionid=24710761&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDQ6MTI6NDEgQU0maGFzaF92YWx1ZT12VmYwdS83NGVyeVZXQXRJUmRSMkR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9Y2YwMjIzYjlmZDU2MjNlMjc0NTk4OTk4OWFmYjVmNzMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
 ########################################
-❤️ช่องทีวีออนไลน์      ช่องเพลง
+💛ช่องเพลง
 ########################################
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",MONO PLUS
@@ -279,7 +272,7 @@ https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 ########################################
-❤️ช่องทีวีออนไลน์      ช่องข่าว
+💚ช่องข่าว
 ########################################
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU",มวลชนทีวี
@@ -308,7 +301,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
 ########################################
-❤️ช่องทีวีออนไลน์     ช่องบันเทิงเด็ก
+💙ช่องบันเทิงเด็ก
 ########################################
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
@@ -367,9 +360,8 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 https://cdn1.googlecdn.live/4k/truesparkplay/playlist.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 
-
 ########################################
-❤️ช่องทีวีออนไลน์         ช่องสารคดี
+💜ช่องสารคดี
 ########################################
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://assets.barco.com/transform/5f0c33c3-1704-4f43-a97e-7cf554348c1b/Circle-Loupe-Solid-Logos-1?io=transform:fit,width:480",Loupe Channel
@@ -407,8 +399,13 @@ https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",สำรวจโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://streamamg-fa.akamaiz.com/dookeela/samrujlok/chunks.m3u8?nimblesessionid=24715285&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDQ6MzQ6MDkgQU0maGFzaF92YWx1ZT1oRlhiR2dmRWpBM25RaGIrV3FOU2dnPT0mdmFsaWRtaW51dGVzPTEmaWQ9Y2YwMjIzYjlmZDU2MjNlMjc0NTk4OTk4OWFmYjVmNzMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
 ########################################
-❤️ช่องทีวีออนไลน์         ช่องธรรมะ
+🤎ช่องธรรมะ
 ########################################
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
@@ -442,7 +439,7 @@ https://live.zoom072.com/ch7/ch7.m3u8
 https://live.zoom072.com/ch8/ch8.m3u8
  
 ########################################
-❤️ช่องทีวีออนไลน์      ช่องการเรียนการสอน
+🖤ช่องการศึกษา
 ########################################
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV1.png",DLTV01
@@ -512,7 +509,7 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 ########################################
-❤️ช่องทีวีออนไลน์      ช่องกีฬาทั่วไป
+🤍ช่องกีฬาทั่วไป
 ########################################
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1

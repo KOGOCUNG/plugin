@@ -5820,3 +5820,5 @@ http://nextstep-sooyp4zfonli.stream-playlist.byteark.com:80/streams/TADsBRUThh65
 
 #EXTINF:-1 group-title="สารคดีเกี่ยวกับธรรมชาติ" tvg-logo="https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1678240878314.jpg" ,ชายหาด วงจรแห่งชีวิต - เกาะเฟรเซอร์
 http://nextstep-sooyp4zfonli.stream-playlist.byteark.com:80/streams/TADsCKRJJiNi/playlist.m3u8
+
+#EXTM3U vod_library="https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist"

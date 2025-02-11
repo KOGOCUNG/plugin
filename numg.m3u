@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="", Asian Food Network
+#EXTVLCOPT:https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.138
+https://dookeela.live/live-tv/afn
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="", Asian Food Network
+#EXTVLCOPT:0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.139
+https://goal-th.com/ช่องรายการทีวี/?id=398&tv=AsianFoodNetwork
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="", Asian Food Network
+#EXTVLCOPT:0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
+https://dookeela.live/live-tv/afn
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="", Asian Food Network
+#EXTVLCOPT:0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.141
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ASIANFOODCHANNE.m3u8
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="", Asian Food Network
+#EXTVLCOPT:0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.142
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/foodnetwork.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="", Food Network
+#EXTVLCOPT:0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.143
+https://dookeela.live/live-tv/foodnetwork
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="", Food Network
+#EXTVLCOPT:0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.144
+https://goal-th.com/ช่องรายการทีวี/?id=397&tv=FoodNetwork
+
+
 ########################################
 ❤️ช่องดิจิตอล
 ########################################

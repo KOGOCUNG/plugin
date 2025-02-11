@@ -247,9 +247,13 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",ROCK Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0089/HLS/V0089.m3u8
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/rock-action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDk6Mzc6MjIgQU0maGFzaF92YWx1ZT02UDk0QzhvdXdIRHZSaGdqRDQrMC9BPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",ROCK ENTERTAINMENT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/rock-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDk6NDA6MjMgQU0maGFzaF92YWx1ZT1lQ2tkc1pJaDJaQ0dMVy9vcGZObGJnPT0mdmFsaWRtaW51dGVzPTIw
 
 ########################################
 💛ช่องเพลง
@@ -357,7 +361,9 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
-https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesparkplay.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/truesparkplay/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDk6NDE6MzQgQU0maGFzaF92YWx1ZT1VSkxwU1dJd2ErVnpWY0lUVTN0Q3JnPT0mdmFsaWRtaW51dGVzPTIw
 
 ########################################
 💜ช่องสารคดี
@@ -399,7 +405,9 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/animal-planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDk6MzQ6NDUgQU0maGFzaF92YWx1ZT1NUXc2VXVVSHlCSUNQTnNTbGVFR1F3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36

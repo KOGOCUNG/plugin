@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="",Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDM6NDg6MTYgQU0maGFzaF92YWx1ZT10M1lyNnlRZXBnVXkwWEhBMG55bEJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9Y2YwMjIzYjlmZDU2MjNlMjc0NTk4OTk4OWFmYjVmNzMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
 ########################################
 ❤️ช่องทีวีออนไลน์      ช่องดิจิตอล
 ########################################

@@ -205,6 +205,14 @@ https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 #EXTINF:-1  tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png",VIPA
 http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",Siamnews
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",Thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+
+
 ########################################
 💛ช่องเพลง
 ########################################
@@ -229,12 +237,6 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png",Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",Siamnews
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",Thainews
-https://live.thaitvstream.com/play/thainews/index.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
 https://server1.streamssl.com/stream/news1_mid.m3u8
@@ -288,9 +290,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-id="DOCTrueExpWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Explore Wild
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",TRUE HISTORY
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
@@ -498,7 +497,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",DISCOVER
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",TRUE HISTORY
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 
 
 

@@ -247,8 +247,9 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",ROCK Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://streamamg-fa.akamaiz.com/dookeela/rock-action/chunks.m3u8?nimblesessionid=24710761&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDQ6MTI6NDEgQU0maGFzaF92YWx1ZT12VmYwdS83NGVyeVZXQXRJUmRSMkR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9Y2YwMjIzYjlmZDU2MjNlMjc0NTk4OTk4OWFmYjVmNzMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0089/HLS/V0089.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d0c882a3ab1d8876db4faaa4a6f47a2f&chunkHttps=true&tmid=V0089&tpbk=VK5bes3lfUp3zrf4&rrt=1739256700&tmod=rfk&rsid=1d243ee5-3a23-4d7a-9f31-d579b792d3cd&tuid=afce0152ca&cdn=redfox-https&tdid=ac2510ecfaed08a6c13ee61b6630da62&origin=anevia&tfa=f0-fc&tttl=https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0089/HLS/V0089.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d0c882a3ab1d8876db4faaa4a6f47a2f&chunkHttps=true&tmid=V0089&tpbk=VK5bes3lfUp3zrf4&rrt=1739256700&tmod=rfk&rsid=1d243ee5-3a23-4d7a-9f31-d579b792d3cd&tuid=afce0152ca&cdn=redfox-https&tdid=ac2510ecfaed08a6c13ee61b6630da62&origin=anevia&tfa=f0-fc&tttl=1739343100
 
 ########################################
 💛ช่องเพลง

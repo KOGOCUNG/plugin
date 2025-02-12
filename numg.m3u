@@ -34,16 +34,16 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 #KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="tvg-logo="https://github.com/KOGOCUNG/MOVIE/raw/refs/heads/main/Photoroom-20250212_193545.png",NBT ภาคกลาง
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="tvg-logo="https://github.com/KOGOCUNG/MOVIE/raw/refs/heads/main/IMG_20250212_211451.png",NBT ภาคกลาง
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683209698.png",NBT ภาคเหนือ
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="tvg-logo="https://github.com/KOGOCUNG/MOVIE/raw/refs/heads/main/IMG_20250212_211503.png",NBT ภาคเหนือ
 http://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683194715.png",NBT ภาคอีสาน
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://github.com/KOGOCUNG/MOVIE/raw/refs/heads/main/IMG_20250212_211516.png",NBT ภาคอีสาน
 http://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",NBT ภาคใต้
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="tvg-logo="https://github.com/KOGOCUNG/MOVIE/raw/refs/heads/main/IMG_20250212_211528.png",NBT ภาคใต้
 http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/1200px-TNN16_Logo.png",TNN16

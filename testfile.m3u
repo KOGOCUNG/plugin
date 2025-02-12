@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",TRUE DreamWorks 
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" group-title="💛ช่องบันเทิง"tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ไทบ้านทีวี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn2077.google-streams.com:9303/v5/iIPM2nnzVuW8S4XL2BGZDQ/1739312517/0b1e4bfefe10bb153c61e176982a92cd/tErz6PCfYYbfeUpDMqfLNg/1739323197/live/vx-origin/hd-xzyte_720/playlist.m3u8

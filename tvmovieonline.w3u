@@ -1,0 +1,28 @@
+{
+"name":"ทีวีออนไลน์",
+"author":"โกโก้คุง",
+"image":"https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/tvmovieonline.w3u",
+"groups": [
+{
+"name": " DADDYHD ","image": "https://png.pngtree.com/png-vector/20220131/ourmid/pngtree-tv-logo-design-set-isolated-vector-business-vector-png-image_23589620.png",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/livetv.m3u",
+"import": true
+},
+{
+"name": " BONDTV ","image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/3RD_TV_Logo.png",
+"url": "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
+"import": true
+},
+{
+"name": " HOMETV ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/numg.m3u",
+"import": true
+},
+{
+"name": " DIGITV ","image": "https://static.vecteezy.com/system/resources/previews/050/544/492/non_2x/online-tv-logo-design-template-free-png.png",
+"url": "https://raw.githubusercontent.com/Soponwit19997/IPTV/main/Digital_TV.m3u",
+"import": true
+},
+]
+}

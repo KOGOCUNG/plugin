@@ -382,7 +382,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/L3T2QZz.png",STOU Channel
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250213_032143.png",STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 ########################################
@@ -420,7 +420,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",TRUE X-ZYTE
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg",Mad World
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250213_032150.png",Mad World
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 
 

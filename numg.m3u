@@ -220,7 +220,7 @@ https://live.thaitvstream.com/play/thainews/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
-#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/SdB3Vyr.jpg",Oh Muang Lao TV
+#EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_221636.png",Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://i.imgur.com/uOfb3y1.png",Thai Chaiyo
@@ -5812,4 +5812,6 @@ http://nextstep-sooyp4zfonli.stream-playlist.byteark.com:80/streams/TADsBRUThh65
 #EXTINF:-1 group-title="สารคดีเกี่ยวกับธรรมชาติ" tvg-logo="https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1678240878314.jpg" ,ชายหาด วงจรแห่งชีวิต - เกาะเฟรเซอร์
 http://nextstep-sooyp4zfonli.stream-playlist.byteark.com:80/streams/TADsCKRJJiNi/playlist.m3u8
 
-#EXTM3U vod_library="https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist"
+
+
+

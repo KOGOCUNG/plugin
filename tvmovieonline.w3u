@@ -4,25 +4,55 @@
 "image":"https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png",
 "url": "https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/tvmovieonline.w3u",
 "groups": [
+
 {
-"name": " DADDYHD ","image": "https://png.pngtree.com/png-vector/20220131/ourmid/pngtree-tv-logo-design-set-isolated-vector-business-vector-png-image_23589620.png",
-"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/livetv.m3u",
+"name": " PLAYID ","image": "https://dl.dropbox.com/scl/fi/dvg68vb1fgb7sxbom1cq6/BackgroundEraser_20250201_224952976.png?rlkey=g96af5mrlpwpi5ooy6aadwyiq&st=j7zjf7g3&dl=0",
+"url": "http://playid.ddnsgeek.com:8080/playidtv1/12345/18757",
 "import": true
 },
+ 
 {
 "name": " BONDTV ","image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/3RD_TV_Logo.png",
 "url": "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
 "import": true
 },
+
+ 
 {
-"name": " HOMETV ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
-"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/numg.m3u",
-"import": true
-},
-{
-"name": " DIGITV ","image": "https://static.vecteezy.com/system/resources/previews/050/544/492/non_2x/online-tv-logo-design-template-free-png.png",
+"name": " DIGITV ","image": "https://www.hs3lzx.com/wp-content/uploads/2014/04/doodee-sticker.png",
 "url": "https://raw.githubusercontent.com/Soponwit19997/IPTV/main/Digital_TV.m3u",
 "import": true
 },
+
+{
+"name": " IPTVplus ","image": "https://png.pngtree.com/png-vector/20220131/ourmid/pngtree-tv-logo-design-set-isolated-vector-business-vector-png-image_23589620.png",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/livetv.m3u",
+"import": true
+},
+
+{
+"name": " KameTV ","image": "https://play-lh.googleusercontent.com/K4sAYzk9n97tNGCHoWaF3WChgnUvSwkZE7a-H4HsuTJNHcPqudDfi8i-NnPCMAI36b8",
+"url": "https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/numg.m3u",
+"import": true
+},
+
+{
+"name": " TV ONLINE ","image": "https://cdn-icons-png.flaticon.com/512/4668/4668380.png",
+"url": "https://freenote.biz/raw/quxx5bjind",
+"import": true
+},
+
+{
+"name": " TV VIP ","image": "https://cdn-icons-png.flaticon.com/512/5362/5362522.png",
+"url": "https://freenote.biz/raw/lyy2rh02ad",
+"import": true
+},
+
+{
+"name": " TV MOVIE ","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zee_TV_Logo_2017.svg/1024px-Zee_TV_Logo_2017.svg.png",
+"url": "https://freenote.biz/raw/1CoNP0ElWF",
+"import": true
+},
+
 ]
 }

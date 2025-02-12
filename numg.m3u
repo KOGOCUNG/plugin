@@ -46,7 +46,7 @@ http://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d/playlist.m3
 #EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="tvg-logo="https://github.com/KOGOCUNG/MOVIE/raw/refs/heads/main/IMG_20250212_211528.png",NBT ภาคใต้
 http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/1200px-TNN16_Logo.png",TNN16
+#EXTINF:-1 tvg-id=""  group-title="❤️ไทยทีวีออนไลน์" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_220443.png",TNN16
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd

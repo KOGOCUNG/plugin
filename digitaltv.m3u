@@ -1,0 +1,79 @@
+--------------------------------------------------------------------------------------
+###ทีวีดิจิตอลไทย###
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBT2HD_2025.png",NBT HD
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png",THAI PBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ALTV.png",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",CH5 HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TPTV_2025.png",TPTV
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTCentral_2025.png",NBT ภาคกลาง
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTNorth_2025.png",NBT ภาคเหนือ
+http://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTNortheast_2025.png",NBT ภาคอีสาน
+http://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTSouth_2025.png",NBT ภาคใต้
+http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TNN16.png",TNN16
+https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",JKN 18
+https://edge2a.v2h-cdn.com/new/new.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://i.imgur.com/h3TY38F.png",Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/720p/index.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/workpoint.png",Workpoint
+https://m3u-lime.vercel.app/stream/workpoint23.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",TRUE4U
+https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",GMM 25
+https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",CH8
+https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono 29
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png",MCOT HD
+https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",ONE31 HD
+https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thairath TV
+https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/CH33HD.png",CH3 HD
+https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png",AmarinTV HD
+https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",CH7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+
+#EXTINF:-1group-title="ช่องทีวีดิจิตอลไทย" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
+https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8

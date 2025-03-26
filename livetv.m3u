@@ -1,4 +1,4 @@
-#EXTM3U 
+﻿#EXTM3U 
 
 ########################################
 ช่องดิจิตอล
@@ -189,9 +189,6 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Thainews.png",Thainews
 https://live.thaitvstream.com/play/thainews/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="ช่องบันเทิง",Gochannel
-https://live2.thaitvstream.com/play/gochannel/index.m3u8
-
 #EXTINF:-1 group-title="ช่องบันเทิง"  tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/OhMuangLao.png",Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
 
@@ -199,7 +196,7 @@ https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
 
 #EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True Series
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
+#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 
 #EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
@@ -208,34 +205,38 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
 
 #EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueasiamove.m3u8
+#https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueasiamove.m3u8
 
 #EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilmasia.m3u8
 
 #EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/CCM.png",TRUE CCM
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
 
 #EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
 
-#EXTINF:1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWMOV.png", FWMOV
+#EXTINF:1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWMOV.png",FWMOV
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWSOV.png",FWSOV
 https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1group-title="ช่องบันเทิง" tvg-logo="https://img2.pic.in.th/pic/-Healthy-Care-Logo_20250129_021127_0001.png" , ASIANMOVIES
+#EXTINF:-1group-title="ช่องบันเทิง" tvg-logo="https://img2.pic.in.th/pic/-Healthy-Care-Logo_20250129_021127_0001.png",ASIANMOVIES
 http://iptvview.sytes.net:9090/memfs/2d8a0d34-c005-45f6-9a20-85efe6186a0a.m3u8
 
-#EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://img5.pic.in.th/file/secure-sv1/-Healthy-Care-Logo_20250129_021127_0000.png" , INTERMOVIES
+#EXTINF:-1  group-title="ช่องบันเทิง" tvg-logo="https://img5.pic.in.th/file/secure-sv1/-Healthy-Care-Logo_20250129_021127_0000.png",INTERMOVIES
 http://iptvview.sytes.net:9090/memfs/3ef36d57-1d43-4502-ba80-9453b3bcbf05.m3u8
 
-#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://img2.pic.in.th/pic/-Healthy-Care-Logo_20250129_020436_0000.png" , THAIMOVIES
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://img2.pic.in.th/pic/-Healthy-Care-Logo_20250129_020436_0000.png",THAIMOVIES
 http://iptvview.sytes.net:9090/memfs/cad7574f-8c82-4f9d-a3e8-ad1ff79bb2e4.m3u8
 
-#EXTINF:-1group-title="ช่องบันเทิง" tvg-logo="http://iptvview.sytes.net/Cover_Movie/Netflix_onair.png" , NETFLIXONAIR
+#EXTINF:-1group-title="ช่องบันเทิง" tvg-logo="http://iptvview.sytes.net/Cover_Movie/Netflix_onair.png",NETFLIXONAIR
 http://iptvview.sytes.net:9090/memfs/c8d0e726-8e97-40cf-b7b9-3e0c6e986b39.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="ช่องบันเทิง",Universal
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/H-Channel
 
 ########################################
 ช่องข่าว
@@ -285,15 +286,19 @@ https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",TRUE DreamWorks 
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truedreamworks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 
 #EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truesparkplay.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 
-#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012839.png" , SUPERCARTOON
+#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012839.png",SUPERCARTOON
 http://iptvview.sytes.net:9090/memfs/bf4c32f2-f8b9-4bdb-966e-a18c35d0f95b.m3u8
 
-#EXTINF:1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWTOON.png", FWTOON
+#EXTINF:1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWTOON.png",FWTOON
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
 
 ########################################
@@ -301,16 +306,24 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlis
 ########################################
 
 #EXTINF:-1 group-title="ช่องนานาสาระ"   tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueexplorelife.m3u8
+#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 
 #EXTINF:-1 group-title="ช่องนานาสาระ" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp",True Explore Sci
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueexploresci.m3u8
+#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 
 #EXTINF:-1 group-title="ช่องนานาสาระ" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Explore Wild
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueexplorewild.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 
 #EXTINF:1 group-title="ช่องนานาสาระ" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWDoc.png", FWDOC
 https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 group-title="ช่องนานาสาระ"   tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/world_animal.png",Animal
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://49.0.64.96:8007/Animal
+
+#EXTINF:-1 group-title="ช่องนานาสาระ"   tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/world_science.png",Science
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/WSCI
 
 ########################################
 ช่องคุณธรรม
@@ -477,10 +490,14 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",TRUE Tennis
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truetennis.m3u8
+#https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truetennis.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",TRUE Golf Channel
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueGOLF.m3u8
+#https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueGOLF.m3u8
+http://iptv12k.com:35461/live/654321/123456/651.m3u8
 
 #EXTINF:-1  group-title="ช่องกีฬาทั่วไป" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL 01
 #EXTVLCOPT:http-referrer=https://99dooball.com/

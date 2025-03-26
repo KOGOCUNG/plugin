@@ -480,6 +480,8 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/rockentertainmentred.m3u8
 
 #EXTINF:-1  group-title="ช่องกีฬาทั่วไป" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012847.png" , HISPORTS
 http://iptvview.sytes.net:9090/memfs/45f13b53-ab3b-47af-9dc0-0e848717f360.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6MzA6MjIgQU0maGFzaF92YWx1ZT1tdVhuMk03d2d4RDZVeVN2OGkrYWpnPT0mdmFsaWRtaW51dGVzPTI=
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6MzA6MjIgQU0maGFzaF92YWx1ZT1tdVhuMk03d2d4RDZVeVN2OGkrYWpnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1  group-title="ช่องกีฬาทั่วไป" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2025/Sports-One.png",Sport One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
